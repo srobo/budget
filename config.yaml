@@ -1,0 +1,13 @@
+# This is the main config file for the budget
+
+vars:
+  # Number of teams for SR2012
+  teams: 24
+
+  # 24 * 6
+  students: 144
+
+  # Number of full new kits being constructed for sr2013
+  # TODO: This is pretty much a guess
+  # Guess based on (36 - 24) * 1.25 + 5 dev kits 
+  sr2013_fullkits: 20
