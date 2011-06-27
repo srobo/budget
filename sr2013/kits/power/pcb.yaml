@@ -1,0 +1,14 @@
+# Feel free to remove the comments 
+# All costs are in GBP
+
+# This should be  
+summary: A short summary of the line (less than 50 chars)
+
+# Cost of the item
+cost: 0.00 + 0.00 * teams
+
+# Long description
+description: >-
+  Description and justification for the 
+  
+

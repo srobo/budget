@@ -11,3 +11,6 @@ vars:
   # TODO: This is pretty much a guess
   # Guess based on (36 - 24) * 1.25 + 5 dev kits 
   sr2013_fullkits: 20
+
+  # Number of kits required for SR2013
+  sr2013_total_kits: 50
