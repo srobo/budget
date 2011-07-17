@@ -1,0 +1,9 @@
+summary: 2m M6 threaded bar
+
+# Cost of the item
+cost: 0.996 * 2 * (teams + 4)
+
+# Long description
+description: >-
+  Farnell 1419417 (assuming 25+). Enough for two 1m lengths per team and a
+  few lengths spare for us.

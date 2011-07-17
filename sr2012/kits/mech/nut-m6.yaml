@@ -1,0 +1,9 @@
+summary: 100 M6 nuts
+
+# Cost of the item
+cost: 1.90 * (teams + 4)
+
+# Long description
+description: >-
+  Farnell 1419451 (assuming 25+). Bag of 100 nuts per team and a few bags for
+  us.

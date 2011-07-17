@@ -1,0 +1,9 @@
+summary: 100 12mm M3 bolts
+
+# Cost of the item
+cost: 1.344 * (teams + 4)
+
+# Long description
+description: >-
+  Farnell 1420391 (assuming 25+). Bag of 100 bolts per team and a few bags for
+  us.

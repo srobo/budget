@@ -1,0 +1,9 @@
+summary: 100 20mm M4 bolts
+
+# Cost of the item
+cost: 2.28 * (teams + 4)
+
+# Long description
+description: >-
+  Farnell 1419996 (assuming 25+). Bag of 100 bolts per team and a few bags for
+  us.
