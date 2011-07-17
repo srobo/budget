@@ -1,14 +1,9 @@
-# Feel free to remove the comments 
-# All costs are in GBP
-
-# This should be  
-summary: A short summary of the line (less than 50 chars)
+summary: PCBs for the power boards
 
 # Cost of the item
-cost: 0.00 + 0.00 * teams
+cost: 10.00 * new_kits
 
 # Long description
 description: >-
-  Description and justification for the 
-  
-
+  See https://www.studentrobotics.org/trac/wiki/Kits/2011 for cost. Based on
+  what we paid Garner Osborne last year.
