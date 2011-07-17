@@ -1,11 +1,11 @@
 # This is the main config file for the budget
 
 vars:
-  # Number of teams for SR2012
+  # Number of teams in current year
   teams: 24
 
   # 24 * 6
-  students: 144
+  students: 6 * teams
 
   # Number of full new kits being constructed for sr2013
   # TODO: This is pretty much a guess
