@@ -13,10 +13,18 @@ vars:
   # Total number of kits we'll own in the current year
   total_kits: teams * 1.25 + dev_kits
 
-  # Number of full new kits being constructed for sr2013
-  # TODO: This is pretty much a guess
-  # Guess based on (36 - 24) * 1.25 + 5 dev kits 
-  sr2013_fullkits: 20
+  #########################################################
+  # The following variables all refer to the next SR year,
+  # kit will need to be manufactured in the current year.
 
-  # Number of kits required for SR2013
-  sr2013_total_kits: 50
+  # Number of teams next year
+  next_year_teams: 1.5 * teams
+
+  # Number of dev kits we'll own next year
+  next_year_dev_kits: dev_kits + 5
+
+  # Total number of kits we'll own next year
+  next_year_total_kits: next_year_teams * 1.25 + next_year_dev_kits
+
+  # Number of kits to manufacture in the current year
+  new_kits: next_year_total_kits - total_kits
