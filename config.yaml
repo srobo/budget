@@ -4,8 +4,14 @@ vars:
   # Number of teams in current year
   teams: 24
 
-  # 24 * 6
+  # Number of students in current year
   students: 6 * teams
+
+  # Number of dev kits we'll own in the current year
+  dev_kits: 8
+
+  # Total number of kits we'll own in the current year
+  total_kits: teams * 1.25 + dev_kits
 
   # Number of full new kits being constructed for sr2013
   # TODO: This is pretty much a guess
