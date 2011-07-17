@@ -26,6 +26,15 @@ class BudgetConfig(object):
             raise Exception("No variables declaration section in config")
         self.vars = y["vars"]
 
+        # Perform substitution of config variables.
+        # This allows something like the following to work
+        # cost = thing; thing = a*2; a = b+2; b = 5
+        for var in self.vars:
+            # Have to repeat this until there's nothing left to substitute
+            # Limit the number of iterations in case of recursion
+            for i in range(0,20):
+                self.vars[var] = sympy.S(self.vars[var]).subs(self.vars).evalf()
+
 def load_budget(root):
     config_path = os.path.join( root, "config.yaml" )
     conf = BudgetConfig( config_path )
