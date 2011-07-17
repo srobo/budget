@@ -1,0 +1,9 @@
+summary: PCBs for the servo boards
+
+# Cost of the item
+cost: 7.00 * new_kits
+
+# Long description
+description: >-
+  See https://www.studentrobotics.org/trac/wiki/Kits/2011 for cost. Based on
+  what we paid Garner Osborne last year.
