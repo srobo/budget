@@ -1,0 +1,11 @@
+summary: Components for the motor board mod board
+
+# Cost of the item
+cost: 4.00 * 2 * total_kits
+
+# Long description
+description: >-
+  A rough estimate to the cost of the components, don't know exactly how much
+  it's going to cost yet.
+  
+
