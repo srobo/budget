@@ -1,0 +1,11 @@
+summary: Money to cover mentor travel costs
+
+# Cost of the item
+cost: 100.00 * teams
+
+# Long description
+description: >-
+  We used to be able to claim back travel expenses from SCA/CV however they
+  said that they're not willing to do this any more. The amount is based on
+  what we would have claimed last year had the spreadsheet not missed of the
+  travel expenses cell.
