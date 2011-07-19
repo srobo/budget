@@ -1,9 +1,0 @@
-summary: New motor controllers for all kits
-
-cost: 0.00 * 2 * next_year_total_kits
-
-description: >-
-  Replacing all motor controllers in all kits with new USB ones.
-  TODO: Split this into a directory, involving PCB, cases etc.
-
-
