@@ -18,13 +18,13 @@ vars:
   # kit will need to be manufactured in the current year.
 
   # Number of teams next year
-  next_year_teams: 1.5 * teams
+  sr2013_teams: 1.5 * teams
 
   # Number of dev kits we'll own next year
-  next_year_dev_kits: dev_kits + 5
+  sr2013_dev_kits: dev_kits + 5
 
   # Total number of kits we'll own next year
-  next_year_total_kits: next_year_teams * 1.25 + next_year_dev_kits
+  sr2013_total_kits: sr2013_teams * 1.25 + sr2013_dev_kits
 
   # Number of kits to manufacture in the current year
-  new_kits: next_year_total_kits - total_kits
+  new_kits: sr2013_total_kits - total_kits

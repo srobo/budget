@@ -1,6 +1,6 @@
 summary: Assembly for the v3 motor boards
 
-cost: 14.55 * 2 * next_year_total_kits
+cost: 14.55 * 2 * sr2013_total_kits
 
 description: >-
   It has been assumed that there will be less components, both unique and total
