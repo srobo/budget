@@ -25,7 +25,12 @@ class BudgetTree(object):
         self.name = name
 
     def add_child(self, child):
-        self.children[ child.name ] = child
+        if isinstance(child, BudgetTree):
+            self.children[ child.name ] = child
+        elif isinstance(child, BudgetItem):
+            self.children[ os.path.basename(child.name) ] = child
+        else:
+            raise Exception("Attempted to add unsupported object type to BudgetTree")
 
     def total(self):
         "Sum all children"
