@@ -7,4 +7,7 @@ cost: 2.00 * 4 * teams
 description: >-
   Alu angle from metal supermarket. Cost based on last years price, see #526.
   
-
+TODO: >-
+ - Verify this price.  Metal prices rise year-on-year.
+   http://www.lme.com/aluminium_graphs.asp shows aluminium price going up
+   by 24% since this time last year.  Needs a quote.
