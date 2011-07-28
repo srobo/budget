@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 import budget, sys
 import pylab
+import numpy as np
 
 class Cmd(object):
     def __init__(self, tree):
@@ -16,11 +17,20 @@ class HistCmd(object):
     "Display a histogram of the items in the tree."
     def __init__(self, tree):
         costs = []
-        for i in tree.walk():
-            costs.append(i.cost)
+        items = list(tree.walk())
+        items.sort( cmp = self.cmp_item_cost )
 
-        pylab.bar( range(0, len(costs)), costs )
+        costs = [x.cost for x in items]
+        names = [x.name for x in items]
+
+        pos = np.arange(0, len(costs)) + 0.5
+        pylab.barh(pos, costs, align = "center" )
+        pylab.yticks(pos, names)
+        pylab.subplots_adjust( left=0.5 )
         pylab.show()
+
+    def cmp_item_cost(self, x, y):
+        return cmp(x.cost, y.cost)
 
 commands = { "total": TotalCmd,
              "hist": HistCmd }
