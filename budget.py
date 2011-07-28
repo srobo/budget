@@ -18,6 +18,34 @@ class BudgetItem(object):
         c = sympy.S( y["cost"] )
         self.cost = D( "%.2f" % c.evalf( subs = conf.vars ) )
 
+class BudgetTree(object):
+    "Container for the BudgetItems and BudgetTrees below a certain point"
+    def __init__(self, name):
+        self.children = {}
+        self.name = name
+
+    def add_child(self, child):
+        self.children[ child.name ] = child
+
+    def total(self):
+        "Sum all children"
+        t = D(0)
+        for ent in self.children.values():
+            if isinstance(ent, BudgetTree):
+                t += ent.total()
+            else:
+                t += ent.cost
+        return t
+
+    def walk(self):
+        "Walk through all the BudgetItems of the this tree"
+        for c in self.children.values():
+            if isinstance(c, BudgetItem):
+                yield c
+            elif isinstance(c, BudgetTree):
+                for e in c.walk():
+                    yield e
+
 class BudgetConfig(object):
     def __init__(self, fname):
         y = yaml.load( open(fname, "r") )
@@ -39,6 +67,7 @@ def load_budget(root):
     config_path = os.path.join( root, "config.yaml" )
     conf = BudgetConfig( config_path )
     budget = []
+    tree = BudgetTree("sr")
 
     for dirpath, dirnames, filenames in os.walk(root):
         try:
@@ -64,5 +93,12 @@ def load_budget(root):
                 if name[0] == "/":
                     name = name[1:]
 
-            budget.append( BudgetItem(name, fullp, conf) )
-    return budget
+            r = tree
+            for d in dirpath.split("/")[1:]:
+                if d not in r.children:
+                    r.add_child( BudgetTree(d) )
+
+                r = r.children[d]
+
+            r.add_child( BudgetItem(name, fullp, conf) )
+    return tree
