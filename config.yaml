@@ -1,30 +1,30 @@
 # This is the main config file for the budget
 
 vars:
-  # Number of teams in current year
+  # Number of teams in SR2012
   teams: 24
 
-  # Number of students in current year
+  # Number of students in SR2012
   students: 6 * teams
 
-  # Number of dev kits we'll own in the current year
+  # Number of dev kits we'll own in SR2012
   dev_kits: 8
 
-  # Total number of kits we'll own in the current year
+  # Total number of kits we'll own in SR2012
   total_kits: teams * 1.25 + dev_kits
 
   #########################################################
-  # The following variables all refer to the next SR year,
-  # kit will need to be manufactured in the current year.
+  # The following variables all refer to SR2013,
+  # kit will need to be manufactured in SR2012.
 
-  # Number of teams next year
+  # Number of teams in SR2013
   sr2013_teams: 1.5 * teams
 
-  # Number of dev kits we'll own next year
+  # Number of dev kits we'll own in SR2013
   sr2013_dev_kits: dev_kits + 5
 
-  # Total number of kits we'll own next year
+  # Total number of kits we'll own in SR2013
   sr2013_total_kits: sr2013_teams * 1.25 + sr2013_dev_kits
 
-  # Number of kits to manufacture in the current year
+  # Number of kits to manufacture in SR2013
   new_kits: sr2013_total_kits - total_kits
