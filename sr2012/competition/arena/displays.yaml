@@ -1,0 +1,12 @@
+summary: Arena Corner Displays
+
+count: 5
+
+cost: ( 25 + 110 + 144 ) * count + 10
+
+description: >-
+  Cost of getting displays on each corner of the arena:
+  25 - mounting brackets, based on http://www.elvets.co.uk/lcd-tv-pole-mount-bracket-with-tilt--swivel-1542-p.asp
+  110 - monitors, based on http://www.ebuyer.com/251662-egde-10-22-inch-widescreen-piano-black-dvi-5ms-w223
+  144 - BeagleBoard XMs, based on http://uk.farnell.com/circuitco/beagle-xm/kit-dev-beagleboard-xm-omap35x/dp/1823269
+  +10 for delivery from elvets; ebuyer is free at that point
