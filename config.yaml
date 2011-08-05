@@ -4,6 +4,9 @@ vars:
   # Number of teams in SR2012
   teams: 24
 
+  # Number of those teams that will be mentored by Bristol students
+  bristol_teams: 3
+
   # Number of students in SR2012
   students: 6 * teams
 

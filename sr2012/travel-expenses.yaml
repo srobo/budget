@@ -1,7 +1,7 @@
 summary: Money to cover mentor travel costs
 
 # Cost of the item
-cost: 100.00 * teams
+cost: 100.00 * (teams - bristol_teams)
 
 # Long description
 description: >-
@@ -9,3 +9,6 @@ description: >-
   said that they're not willing to do this any more. The amount is based on
   what we would have claimed last year had the spreadsheet not missed of the
   travel expenses cell.
+
+  Bristol SCA is funding Bristol students travelling to schools, so they're
+  not included in this funding pot.
