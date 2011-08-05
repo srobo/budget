@@ -1,7 +1,6 @@
 summary: Wire for the SR2013 kits
 
-cost: 0 * sr2013_total_kits
+cost: 12.00 * sr2013_total_kits
 
 description: >-
-   TODO: This is a placeholder
- 
+  Cost based on what was paid for wire in SR2011.
