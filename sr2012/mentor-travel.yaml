@@ -1,4 +1,4 @@
-summary: Money to cover mentor travel costs
+summary: Mentor travel to schools
 
 # Cost of the item
 cost: 100.00 * (teams - bristol_teams)
@@ -9,6 +9,10 @@ description: >-
   said that they're not willing to do this any more. The amount is based on
   what we would have claimed last year had the spreadsheet not missed of the
   travel expenses cell.
+
+  This funding is _only_ for mentors travelling to team meetings.  It
+  is not for mentors travelling to the competition, kickstart, or any
+  other SR event.
 
   Bristol SCA is funding Bristol students travelling to schools, so they're
   not included in this funding pot.
