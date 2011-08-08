@@ -1,6 +1,10 @@
 summary: Carpet for arena
 
-cost: 560.00
+cost: 572.16
 
 description: >-
-  This covers the cost of purchasing enough carpet to cover the arena.
+  This covers the cost of purchasing enough carpet to cover the arena, based
+  on B&Q carpet tile EAN: 5014957151543 priced at £2.98 per 50cmx50cm tile,
+  an 8m x 8m arena, and their current "4 for 3" offer. Whilst going to
+  a more specialised shop may give a cheaper price, this is very easy for
+  schools to get hold of for their own prototyping.
