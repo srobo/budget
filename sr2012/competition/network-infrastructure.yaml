@@ -1,7 +1,13 @@
 summary: Infrastructure for the competition network
 
-cost: 600.00
+cost: 448.00
 
 description: >-
-  This covers the router and cables that we are not borrowing for the SR
-  competition network.
+  This covers the cost of competition networking, that is:
+   * An HP ProLiant ML110 G6, priced at £221.99;
+   * An HP NC112T PCIe Gigabit Server Adapter, priced at £44.39;
+   * A £10 shipping cost;
+   * A Netgear ProSafe 24-port switch (GS724T-300EUS) priced at £167.99;
+  All other equipment we either already own (cabling) or are borrowing from
+  ECS.
+
