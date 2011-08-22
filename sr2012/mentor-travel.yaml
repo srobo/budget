@@ -16,3 +16,6 @@ description: >-
 
   Bristol SCA is funding Bristol students travelling to schools, so they're
   not included in this funding pot.
+
+# Whether the item/service can only be used once
+consumable: true

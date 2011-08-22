@@ -8,3 +8,6 @@ description: >-
   monolithic H-bridge IC.
   Based on a quote obtained from the PCB Train website with 110 parts in total
   and 35 unique BOM lines.
+
+# Whether the item/service can only be used once
+consumable: false

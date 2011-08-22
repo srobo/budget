@@ -5,3 +5,6 @@ cost: 12.00 * new_kits
 description: >-
   The Akasa hubs cost us £10 last year and are still available from Misco.
   Akasa part number: AK-HB-03BK; Misco part number: 153820
+
+# Whether the item/service can only be used once
+consumable: false

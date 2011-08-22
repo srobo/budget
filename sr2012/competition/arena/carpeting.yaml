@@ -8,3 +8,6 @@ description: >-
   an 8m x 8m arena, and their current "4 for 3" offer. Whilst going to
   a more specialised shop may give a cheaper price, this is very easy for
   schools to get hold of for their own prototyping.
+
+# Whether the item/service can only be used once
+consumable: false

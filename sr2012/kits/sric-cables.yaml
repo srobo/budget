@@ -14,3 +14,6 @@ description: >-
 
   5 is a magic number I pulled out of the air, should probably be enough
   considering we bought 38 sets of cables last year.
+
+# Whether the item/service can only be used once
+consumable: false

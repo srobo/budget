@@ -7,3 +7,6 @@ cost: 1.344 * (teams + 4)
 description: >-
   Farnell 1420391 (assuming 25+). Bag of 100 bolts per team and a few bags for
   us.
+
+# Whether the item/service can only be used once
+consumable: true

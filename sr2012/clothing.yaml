@@ -7,3 +7,8 @@ cost: 400
 description: >-
   We spent £480 on t-shirts last year. We still have a few left over so if
   we do get some more this year we won't need as many.
+
+# Whether the item/service can only be used once
+consumable: false
+
+ 

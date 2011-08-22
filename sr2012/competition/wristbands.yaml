@@ -7,3 +7,6 @@ description: >-
   Quote received over phone for these:
   http://www.wristbands.co.uk/wristbands-textag.htm
   Price includes shipping, VAT and hire of the crimping tool.
+
+# Whether the item/service can only be used once
+consumable: true

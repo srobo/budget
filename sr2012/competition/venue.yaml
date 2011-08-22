@@ -5,3 +5,6 @@ cost: 600.00
 description: >-
   This covers hiring the old sports hall and is projected from figures for
   equivalent venues.
+
+# Whether the item/service can only be used once
+consumable: true

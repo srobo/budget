@@ -7,3 +7,6 @@ description: >-
   This includes the first, second and third place trophies, also the Chairman's
   Award or equivalent and the small trophies for the members of the winning
   team.
+
+# Whether the item/service can only be used once
+consumable: true

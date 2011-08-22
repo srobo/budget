@@ -5,3 +5,6 @@ cost: 20 * new_kits
 description: >-
   LCDs for the power boards.
   They're still around on eBay for less than £20.
+
+# Whether the item/service can only be used once
+consumable: false

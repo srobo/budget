@@ -6,3 +6,6 @@ description: >-
   As these boards don't exist yet it's very hard to know how much cases will
   cost. The estimate is based on the cost of the motor, jointio and servo
   board cases from last year.
+
+# Whether the item/service can only be used once
+consumable: false

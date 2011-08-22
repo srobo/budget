@@ -8,3 +8,6 @@ description: >-
   expensive. See https://www.studentrobotics.org/trac/wiki/Kits/2011.
   
 
+
+# Whether the item/service can only be used once
+consumable: false

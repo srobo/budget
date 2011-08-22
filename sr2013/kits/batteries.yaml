@@ -5,3 +5,5 @@ cost: 0 * new_kits
 description: >-
    TODO: This is a placeholder
  
+# Whether the item/service can only be used once
+consumable: false

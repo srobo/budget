@@ -7,3 +7,6 @@ cost: 1.90 * (teams + 4)
 description: >-
   Farnell 1419451 (assuming 25+). Bag of 100 nuts per team and a few bags for
   us.
+
+# Whether the item/service can only be used once
+consumable: true

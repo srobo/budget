@@ -4,3 +4,6 @@ cost: 12.00 * total_kits
 
 description: >-
   Cost based on what we paid for wire in SR2011 
+
+# Whether the item/service can only be used once
+consumable: true

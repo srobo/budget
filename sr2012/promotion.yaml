@@ -7,3 +7,6 @@ description: >-
   This is to cover the cost of this, assuming we attend again this year, and
   other similar events. This includes anything that we need to buy for
   jumpstart. This includes money for printing posters/flyers/business cards.
+
+# Whether the item/service can only be used once
+consumable: true

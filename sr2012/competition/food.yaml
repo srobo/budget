@@ -4,3 +4,6 @@ cost: 80.00
 
 description: >-
   Last year we spent £77 on tea/coffee/biscuits/other for the competition.
+
+# Whether the item/service can only be used once
+consumable: true

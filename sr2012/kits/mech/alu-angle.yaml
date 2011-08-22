@@ -11,3 +11,6 @@ TODO: >-
  - Verify this price.  Metal prices rise year-on-year.
    http://www.lme.com/aluminium_graphs.asp shows aluminium price going up
    by 24% since this time last year.  Needs a quote.
+
+# Whether the item/service can only be used once
+consumable: true

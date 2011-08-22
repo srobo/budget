@@ -6,3 +6,6 @@ cost: (10.00 * sr2013_teams) + 50.00
 # Long description
 description: >-
   This is to cover the cost of 'mini-game' bits and bobs and printing.
+
+# Whether the item/service can only be used once
+consumable: true

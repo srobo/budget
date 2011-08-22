@@ -6,3 +6,6 @@ description: >-
   Two 7kVA generators for the competition.
   Hired for three days, two of which are a weekend:
   http://www.hss.com/g/41310/Generator-10kva-Silenced-Diesel.html
+
+# Whether the item/service can only be used once
+consumable: true

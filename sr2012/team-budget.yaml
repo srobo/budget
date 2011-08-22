@@ -8,3 +8,5 @@ description: >-
   We give each team a budget of £75 which they can claim back at the end
   of the year. This covers that potential expense.
 
+# Whether the item/service can only be used once
+consumable: true

@@ -7,3 +7,6 @@ cost: 0.864 * (teams + 4)
 description: >-
   Farnell 1623991 (assuming 25+). Bag of 100 washers per team and a few bags
   for us.
+
+# Whether the item/service can only be used once
+consumable: true

@@ -11,3 +11,6 @@ description: >-
   - 2x 1m cables
   As per https://www.studentrobotics.org/docs/kit/.
   Prices from http://www.comms-express.com/products/booted-rj45-patch-leads/
+
+# Whether the item/service can only be used once
+consumable: false

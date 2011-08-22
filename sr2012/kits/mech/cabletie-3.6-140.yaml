@@ -6,3 +6,6 @@ cost: 0.60 * teams
 # Long description
 description: >-
   Pack of cable ties from cabletiesonline.co.uk (bought as 1000+)
+
+# Whether the item/service can only be used once
+consumable: true

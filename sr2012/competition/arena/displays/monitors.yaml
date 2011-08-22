@@ -5,3 +5,6 @@ cost: 110 * 6
 description: >-
   The monitors themselves for use in the arena displays.
   Based on http://www.ebuyer.com/251662-egde-10-22-inch-widescreen-piano-black-dvi-5ms-w223
+
+# Whether the item/service can only be used once
+consumable: false

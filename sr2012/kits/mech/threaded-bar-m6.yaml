@@ -7,3 +7,6 @@ cost: 0.996 * 2 * (teams + 4)
 description: >-
   Farnell 1419417 (assuming 25+). Enough for two 1m lengths per team and a
   few lengths spare for us.
+
+# Whether the item/service can only be used once
+consumable: true

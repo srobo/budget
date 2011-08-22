@@ -11,3 +11,5 @@ description: >-
   like changing perspectives and also demonstrating what we do to other
   interested parties.
 
+# Whether the item/service can only be used once
+consumable: false

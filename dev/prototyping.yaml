@@ -7,3 +7,6 @@ description: >-
 
 TODO: >-
   Consider more carefully with reference to last year.
+
+# Whether the item/service can only be used once
+consumable: true

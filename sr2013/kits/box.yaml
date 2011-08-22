@@ -11,3 +11,6 @@ description: >-
   Price calculated from using this website:
   http://www.reallyusefulproducts.co.uk/uk/html/onlineshop/rub/b35_0litre.php
   Includes shipping and VAT.
+
+# Whether the item/service can only be used once
+consumable: true

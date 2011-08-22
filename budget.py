@@ -15,6 +15,11 @@ class BudgetItem(object):
         self.summary = y["summary"]
         self.description = y["description"]
 
+        if "consumable" in y:
+            self.consumable = y["consumable"]
+        else:
+            self.consumable = None
+
         c = sympy.S( y["cost"] )
         self.cost = D( "%.2f" % c.evalf( subs = conf.vars ) )
 

@@ -10,3 +10,6 @@ description: >-
   anything this year, but that's what we thought last time; hence 
   'emergency' shipping. We already have the kit to hand out at kickstart so
   any shipping will be of smaller items or replacement boards.
+
+# Whether the item/service can only be used once
+consumable: true

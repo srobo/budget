@@ -11,4 +11,5 @@ cost: 0.00 + 0.00 * teams
 description: >-
   Description and justification for the 
   
-
+# Whether the item/service can only be used once
+consumable: false
