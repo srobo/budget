@@ -69,6 +69,7 @@ class BudgetConfig(object):
                 self.vars[var] = sympy.S(self.vars[var]).subs(self.vars).evalf()
 
 def load_budget(root):
+    root = os.path.abspath(root)
     config_path = os.path.join( root, "config.yaml" )
     conf = BudgetConfig( config_path )
     budget = []
@@ -83,7 +84,7 @@ def load_budget(root):
             pass
 
         for fname in filenames:
-            fullp = os.path.join(dirpath, fname)
+            fullp = os.path.abspath( os.path.join(dirpath, fname) )
             if fullp == config_path:
                 "The config file is a yaml file, but not a budget item"
                 continue
@@ -91,12 +92,7 @@ def load_budget(root):
             if fname[-5:] != ".yaml":
                 continue
 
-            name = fullp[:-5]
-            if name[0] == ".":
-                name = name[1:]
-
-                if name[0] == "/":
-                    name = name[1:]
+            name = fullp[len(root)+1:-5]
 
             r = tree
             for d in dirpath.split("/")[1:]:
