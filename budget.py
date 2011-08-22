@@ -55,7 +55,10 @@ class BudgetTree(object):
         "Return the object at the given path relative to this one"
         pos = self
         for s in path.split("/"):
-            pos = pos.children[s]
+            try:
+                pos = pos.children[s]
+            except KeyError:
+                raise Exception( "'%s' has no child node '%s'" % ( pos.name, s ) )
         return pos
 
 class BudgetConfig(object):
