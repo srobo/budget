@@ -95,7 +95,7 @@ def load_budget(root):
             name = fullp[len(root)+1:-5]
 
             r = tree
-            for d in dirpath.split("/")[1:]:
+            for d in name.split("/"):
                 if d not in r.children:
                     r.add_child( BudgetTree(d) )
 
