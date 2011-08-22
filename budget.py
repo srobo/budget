@@ -51,6 +51,13 @@ class BudgetTree(object):
                 for e in c.walk():
                     yield e
 
+    def path(self, path):
+        "Return the object at the given path relative to this one"
+        pos = self
+        for s in path.split("/"):
+            pos = pos.children[s]
+        return pos
+
 class BudgetConfig(object):
     def __init__(self, fname):
         y = yaml.load( open(fname, "r") )
