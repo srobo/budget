@@ -8,9 +8,12 @@ description: >-
   Boxes for teams to store and carry kit away from kickstart in.
   These are 35L strong, white "Really Useful Box"
 
+  These will be re-used.  The teams can return them on or before
+  competition day, or with their kit.
+
   Price calculated from using this website:
   http://www.reallyusefulproducts.co.uk/uk/html/onlineshop/rub/b35_0litre.php
   Includes shipping and VAT.
 
 # Whether the item/service can only be used once
-consumable: true
+consumable: false
