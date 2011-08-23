@@ -1,9 +1,32 @@
-summary: Batteries for the new kits
+summary: New batteries for all kits
 
-cost: 0 * new_kits
+cost: 26 * sr2013_total_kits
 
 description: >-
-   TODO: This is a placeholder
+  We are intent on replacing our batteries with NiMH batteries (maybe
+  even LiPo).
+
+  This line is a last-minute hack: the budget needs to be submitted,
+  but no-one has done the work to fully understand the battery
+  situation.  The following points have been scraped together from
+  the internets:
+    - NiMH batteries are approximately 2.5 times as expensive as
+      lead-acid.
+    - Chargers are more expensive too.
+
+  The price of this entry is based on the 12V NiMH batteries from here:
+  http://www.component-shop.co.uk/html/body_nimh_flight_packs.html
+
+  We will need to get chargers for these too.  However, this will jack
+  the budget up quite considerably, and now is not a time to be doing
+  that.  Therefore, I'm not going to include chargers in the budget,
+  and something will have to be worked out later.
+
+  Perhaps a solution is to replace our collection of chargers with
+  ones that support lead-acid and NiMh.  This will allow us to ease
+  our charging situation across (we'll need to stomp on teams
+  losing/stealing chargers).  The at a later date we can replace the
+  batteries.
  
 # Whether the item/service can only be used once
 consumable: false
