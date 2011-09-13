@@ -1,11 +1,16 @@
-summary: SLA battery chargers
+summary: Battery chargers for kits for sr2012 and sr2013
 
-cost: 15.00 * 15
+cost: 1422
 
 description: >-
-  We bought 15 chargers last year and as usual some of those have not been
-  returned. The cost per charger is based upon what we paid last year plus
-  a bit to cover variations in price.
+  58 battery chargers for SR2012 and SR2013.
+
+  58 of these:
+  http://www.aliexpress.com/product-fm/459979910-low-shipping-IMAX-B6-Digital-RC-Lipo-NiMh-Battery-Balance-Charger-AC-POWER-12v-5A-Adapter-wholesalers.html
+  shipped on the "UPS express saver" option.
+
+  (Will interact with seller to get the Tamiya-connector version,
+  as this is more common on RC batteries.)
 
 # Whether the item/service can only be used once
 consumable: false
