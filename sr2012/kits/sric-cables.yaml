@@ -1,7 +1,9 @@
 summary: New 8P8C/RJ45 cables
 
 # Cost of the item
-cost: ((0.37 * 3) + (0.46 * 4) + (0.62 * 2)) * 5
+# Was originally defined as:
+#cost: ((0.37 * 3) + (0.46 * 4) + (0.62 * 2)) * 5 = £20.95
+cost: 16.56
 
 # Long description
 description: >-
