@@ -2,7 +2,11 @@
 # -*- coding: utf-8 -*-
 import budget, sys
 from decimal import Decimal as D
-MAX = D("31844.30")
+# Funds from Moto
+MOTO_FUNDS = D("31844.30")
+# Existing bank funds 
+BANK_FUNDS = D("2000")
+MAX = MOTO_FUNDS + BANK_FUNDS
 
 b = budget.load_budget( "./" )
 
