@@ -1,13 +1,16 @@
 summary: Battery chargers for kits for sr2012 and sr2013
 
-cost: 1422
+cost: 980 + 94
 
 description: >-
-  58 battery chargers for SR2012 and SR2013.
+  58 battery chargers for SR2012 and SR2013, including power cables.
 
   58 of these:
   http://www.aliexpress.com/product-fm/459979910-low-shipping-IMAX-B6-Digital-RC-Lipo-NiMh-Battery-Balance-Charger-AC-POWER-12v-5A-Adapter-wholesalers.html
   shipped on the "UPS express saver" option.
+
+  56 of these power cables:
+  http://uk.farnell.com/pro-elec/sh10106mr/power-lead-uk-plug-fig8-black-2m/dp/1522217
 
   (Will interact with seller to get the Tamiya-connector version,
   as this is more common on RC batteries.)
