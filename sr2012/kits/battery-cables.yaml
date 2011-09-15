@@ -1,0 +1,17 @@
+summary: Cables for connecting the battery to the power board
+
+# Only 40 phoenix connectors because we can reuse them
+#     ( phoenix  + cable )   * VAT + deans
+cost: (40 * 1.23 + 9.67 * 4) * 1.2 + 51.54
+
+description: >-
+  Parts for connecting a deans-connector battery to the power board.
+
+  http://uk.farnell.com/mc-multi-contact/60-7265-21-5m/wire-plast-2v-black-2mm-5m/dp/3653018
+  http://uk.farnell.com/mc-multi-contact/60-7265-22-5m/wire-plast-2v-red-2mm-5m/dp/3653006
+  http://uk.farnell.com/phoenix-contact/pc-4-2-st-7-62/plug-free-7-62mm-2way/dp/1793033
+
+  Deans connectors -- 6 packs of 10.
+  http://www.modelsport.co.uk/index.php?product_id=36162
+
+consumable: false

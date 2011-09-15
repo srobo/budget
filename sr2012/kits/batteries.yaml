@@ -1,0 +1,11 @@
+summary: Batteries for kits for sr2012 and sr2013
+
+# (shipping + charger cost) * USD-to-GBP
+cost: (212.3 + (15.99 * 120)) * 0.65
+
+description: >-
+  120 2200 mAh 11.1V LiPo batteries shipped at high speed from China.
+  These batteries will have deans connectors on them, like the chargers.
+
+# Whether the item/service can only be used once
+consumable: false
