@@ -1,0 +1,11 @@
+summary: Replacement USB Hubs
+
+cost: (9.38 * 5) + 10.00
+
+description: >-
+  These are to replace hubs that have either broken or gone missing.
+  We need at least 2 more hubs to ship kit this year. The £10 is for shipping.
+  Akasa part number: AK-HB-03BK; Misco part number: 153820
+
+# Whether the item/service can only be used once
+consumable: false
