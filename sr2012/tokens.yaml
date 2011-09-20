@@ -1,0 +1,17 @@
+summary: Cardboard boxes for tokens
+
+cost: 7.99 + (9.99 * 4)
+
+description: >-
+  Two-hundred 102 x 102 x 102 mm cardboard boxes to feature in the competition
+  as tokens.
+
+  100 of these tokens are for 'internal' use, and the other 100 will be shipped
+  out to teams.
+
+  From:
+  http://www.cardboardboxes.co.uk/show_products.asp?cat1=Single+Wall+Boxes
+  £7.99 is shipping.
+
+# Whether the item/service can only be used once
+consumable: true
