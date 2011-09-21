@@ -1,12 +1,12 @@
 summary: 2m M6 threaded bar
 
 # Cost of the item
-cost: 0.996 * 2 * (teams + 4)
+cost: 49.80
 
 # Long description
 description: >-
   Farnell 1419417 (assuming 25+). Enough for two 1m lengths per team and a
-  few lengths spare for us.
+  few lengths spare for us. Enough for 25 teams.
 
 # Whether the item/service can only be used once
 consumable: true

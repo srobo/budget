@@ -1,0 +1,11 @@
+summary: 20 M4 nyloc nuts
+
+# Cost of the item
+cost: 12.55
+
+# Long description
+description: >-
+  Screwfix 64653 (assuming 25+). 20 nyloc nuts per team. Enough for 25 teams.
+
+# Whether the item/service can only be used once
+consumable: true

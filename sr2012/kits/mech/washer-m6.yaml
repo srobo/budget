@@ -1,12 +1,12 @@
 summary: 100 M6 washers
 
 # Cost of the item
-cost: 0.816 * (teams + 4)
+cost: 20.70
 
 # Long description
 description: >-
   Farnell 1377500 (assuming 25+). Bag of 100 washers per team and a few bags
-  for us.
+  for us. Enough for 25 teams.
 
 # Whether the item/service can only be used once
 consumable: true

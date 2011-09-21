@@ -1,12 +1,12 @@
 summary: 100 M3 nuts
 
 # Cost of the item
-cost: 1.176 * (teams + 4)
+cost: 30.00
 
 # Long description
 description: >-
   Farnell 1419447 (assuming 25+). Bag of 100 nuts per team and a few bags for
-  us.
+  us. Enough for 25 teams.
 
 # Whether the item/service can only be used once
 consumable: true
