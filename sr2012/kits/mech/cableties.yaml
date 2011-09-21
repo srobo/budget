@@ -1,0 +1,17 @@
+summary: A selection of cableties
+
+# Cost of the item
+cost: 6 + 16.50 + 26.75 + 3.95
+
+# Long description
+description: >-
+  Pack of cable ties from cabletiesonline.co.uk, 100 of each variety per team
+  Enough for 25 teams.
+  Item, cost
+  2.5mm wide 100mm long, 6
+  3.6mm wide 140mm long, 16.50
+  4.8mm wide 200mm long, 26.75
+  Delivery, 3.95
+
+# Whether the item/service can only be used once
+consumable: true

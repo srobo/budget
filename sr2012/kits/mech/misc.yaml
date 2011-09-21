@@ -1,0 +1,16 @@
+summary: Other items required for the mech kit
+
+# Cost of the item
+cost: 55.80 + 57.45 + 23.97
+
+# Long description
+description: >-
+  Item, source and product code, description, cost
+  Compartment Box, Farnell 3861909,A place to put all of the nuts/bolts/washers
+                                       12 compartments, 55.80
+  Hinges, Screwfix 18399, 4 hinges per team, 57.45
+  Springs, Screwfix 63863, A selection of 20 springs per team, 23.97
+  Enough for 25 teams.
+
+# Whether the item/service can only be used once
+consumable: true

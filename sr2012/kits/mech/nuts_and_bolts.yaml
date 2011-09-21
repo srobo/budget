@@ -1,0 +1,24 @@
+summary: Nuts, Washers and Bolts of varying sizes
+
+# Cost of the item
+cost: 34.20+58.20+30.00+28.50+48.60+8.75+12.55+16.65+9.30+11.75+20.70+49.80
+
+# Long description
+description: >-
+  Enough for 25 teams.
+  Item, source and product code, description, cost
+  M3 Bolt, Farnell 1420391, Bag of 100 per team, 34.20
+  M4 Bolt, Farnell 1419996, Bag of 100 per team, 58.20
+  M3 Nut, Farnell 1419447, Bag of 100 per team, 30.00
+  M4 Nut, Farnell 1419449, Bag of 100 per team, 28.50
+  M6 Nut, Farnell 1419451, Bag of 100 per team, 48.60
+  M3 Nyloc, Screwfix 79754, 20 per team, 8.75
+  M4 Nyloc, Screwfix 64653, 20 per team, 12.55
+  M6 Nyloc, Screwfix 11082, 20 per team, 16.65
+  M3 Washer, Farnell 1377496, Bag of 100 per team, 9.30
+  M4 Washer, Farnell 1623991, Bag of 100 per team, 11.75
+  M6 Washer, Farnell 1377500, Bag of 100 per team, 20.70
+  M6 Threaded Bar, Farnell 1419417, two 1m lengths per team, 49.80
+
+# Whether the item/service can only be used once
+consumable: true
