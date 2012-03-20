@@ -1,0 +1,11 @@
+summary: Krakow hotel
+
+cost: 355.77
+
+description: >-
+  As detailed in #850, Motorola funded Alex and my trip to Krakow.
+  This funding went via the SR bank account.  I paid for the hotel,
+  which came to £355.77.
+
+# Whether the item/service can only be used once
+consumable: true
