@@ -1,0 +1,12 @@
+summary: Pirate Ship materials
+
+cost: 135
+
+description: >-
+  This covers enough material for 6 new pirate ships to be made up:
+  6 * 9L RUBs from staples (@ £6 ea from wilkinsons/ryman) = £36
+  + 24 castors (12 * B&Q  @ £4.98 ea) = £59.76
+  + a small amount for pine cladding, dowel, MDF from B&Q = ~£30
+
+# Whether the item/service can only be used once
+consumable: true
