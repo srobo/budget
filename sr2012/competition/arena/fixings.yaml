@@ -1,0 +1,13 @@
+summary: Fixings for arena construction
+
+cost: 40
+
+description: >-
+  Various fixings for the arena.
+
+  This is enough for about 8 boxes of screws from screwfix (average of
+  approximately £2), 300 white screwcaps, and a few hundred cable ties
+  (for the attaching of the black fabric to the arena).
+
+# Whether the item/service can only be used once
+consumable: true
