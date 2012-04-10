@@ -1,0 +1,18 @@
+summary: Cabling hire for the competition
+
+cost: 75 + 250
+
+description: >-
+  Both the hire of cabling, and purchase of RCDs for deployment
+  amongst said cabling.
+
+  ~£75 for ~15 RCDs from
+  Screwfix. (http://www.screwfix.com/p/masterplug-rcd-adaptor/63731)
+
+  Cabling hire from Henley will be more than £160, as we're adding a
+  few things onto the quote we initally got from them, however it
+  won't be insane amounts more, hence £250.  This will include the XLR
+  cables we need, as well as a radio mic.
+
+# Whether the item/service can only be used once
+consumable: true
