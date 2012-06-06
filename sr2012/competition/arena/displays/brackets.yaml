@@ -1,11 +1,10 @@
 summary: Brackets for arena displays
 
-cost: 25 * 6 + 10
+cost: 98.28
 
 description: >-
   6 brackets for mounting displays on arena scaff.
-  Based on http://www.elvets.co.uk/lcd-tv-pole-mount-bracket-with-tilt--swivel-1542-p.asp
-  £10 delivery from elvets
-
+  Based on http://cpc.farnell.com/jsp/search/productdetail.jsp?sku=ST01594
+  
 # Whether the item/service can only be used once
 consumable: false

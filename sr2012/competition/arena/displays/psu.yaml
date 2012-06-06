@@ -1,0 +1,10 @@
+summary: Power Supplies for BBxMs
+
+cost: 31.80
+
+description: >-
+  6 power supplies for BBxMs
+  Based on http://cpc.farnell.com/jsp/search/productdetail.jsp?sku=PW02675
+  
+# Whether the item/service can only be used once
+consumable: false
