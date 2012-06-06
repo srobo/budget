@@ -1,6 +1,6 @@
 summary: Cardboard boxes for tokens
 
-cost: 7.99 + (9.99 * 4)
+cost: 7.99 + (9.99 * 4) + 7.96
 
 description: >-
   Two-hundred 102 x 102 x 102 mm cardboard boxes to feature in the competition
@@ -13,5 +13,6 @@ description: >-
   http://www.cardboardboxes.co.uk/show_products.asp?cat1=Single+Wall+Boxes
   £7.99 is shipping.
 
+  £7.96 is for materials for putting them together
 # Whether the item/service can only be used once
 consumable: true
