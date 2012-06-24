@@ -1,0 +1,14 @@
+summary: Notarisation of charitable equivalency form
+
+# Cost of the item
+cost: 75.00
+
+# Long description
+description: >-
+  The Motorola Foundation will want our charitable equivalency form to
+  be notarised, so a notary will need to be paid.  This is the same
+  amount as we paid last year, and it seems unlikely that it will have
+  gone up by more than 10%.
+
+# Whether the item/service can only be used once
+consumable: true
