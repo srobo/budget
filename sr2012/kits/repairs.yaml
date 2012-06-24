@@ -1,0 +1,10 @@
+summary: Parts for kit repair
+
+cost: 37.44
+
+description: >-
+  Retrospectively created to cover the purchase of some parts required
+  for the repair of kits so they could be shipped.
+
+# Whether the item/service can only be used once
+consumable: true
