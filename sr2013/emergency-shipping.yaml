@@ -1,0 +1,18 @@
+summary: Money for unexpected shipping
+
+# Cost of the item
+cost: 300.00
+
+# Long description
+description: >-
+  Last year we spent £636.11 on shipping, having spent £1494 in the
+  previous year.  We are getting better at not having to ship things
+  at ultra high speed, so 
+
+  Furthermore, it is likely that we will ask teams to arrange for
+  their kit to be couriered to them, so we will not need to pay for it.
+
+  This fund is for the emergency shipping of things to and from teams.
+
+# Whether the item/service can only be used once
+consumable: true
