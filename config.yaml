@@ -31,3 +31,24 @@ vars:
 
   # Number of kits to manufacture in SR2013
   new_kits: sr2013_total_kits - total_kits
+
+  # Number of whole kits that were completely lost/destroyed in SR2013
+  sr2013_destroyed_kits: 2
+
+  # Number of kits that made it to the end of SR2013
+  sr2013_end_kits: sr2013_total_kits - sr2013_destroyed_kits
+
+  ############################################################
+  # The following all refer to SR2014
+
+  # Number of teams in SR2014
+  sr2014_teams: floor(1.5 * sr2013_teams)
+
+  # Number of dev kits we'll own in SR2014
+  sr2014_dev_kits: dev_kits + 5
+
+  # Total number of kits we'll own in SR2014
+  sr2014_total_kits: ceil(sr2014_teams * 1.25) + sr2013_dev_kits
+
+  # Number of kits to manufacture in SR2014
+  sr2014_new_kits: sr2014_total_kits - sr2013_end_kits
