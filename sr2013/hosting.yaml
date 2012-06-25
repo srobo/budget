@@ -1,0 +1,14 @@
+summary: Hosting of web services
+
+# Cost of the item
+cost: 300
+
+# Long description
+description: >-
+  Hosting of the Student Robotics website with linode.com for one year.
+  This is for their "Linode 1024" service.  They charge in USD, so
+  this involves a small amount of additional fudge to compensate for
+  that.
+
+# Whether the item/service can only be used once
+consumable: true
