@@ -1,0 +1,6 @@
+# Funds that we have received:
+incoming:
+  - desc: Initial bank balance
+    amount: 2000
+  - desc: Motorola sponsorship 2011
+    amount: 31844.30
