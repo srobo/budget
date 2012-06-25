@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-import budget, sys
+import sys
+import sr.budget as budget
 import pylab
 import numpy as np
 

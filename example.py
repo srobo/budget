@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-import budget
+import sr.budget as budget
 
 bud = budget.load_budget( "./" )
 

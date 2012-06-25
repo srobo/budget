@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-import budget, sys
+import sr.budget as budget
+import sys
 from decimal import Decimal as D
 # Funds from Moto
 MOTO_FUNDS = D("31844.30")
