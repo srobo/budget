@@ -1,0 +1,14 @@
+summary: Promotional events
+
+# Cost of the item
+cost: 170
+
+# Long description
+description: >-
+  Funds for promotion -- including posters/flyers/business cards.
+
+  For sr2012, only ~£170 was spent of the promotion budget.  This
+  keeps the promotion budget at the same level.
+
+# Whether the item/service can only be used once
+consumable: true
