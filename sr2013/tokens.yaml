@@ -1,0 +1,13 @@
+summary: Parts for SR2013 game tokens
+
+cost: 100
+
+description: >-
+  It seems likely that sr2013's game will involve some kind of token.
+
+  This number is last year's token cost (~£50) plus some extra fudge
+  for the increased number of teams along with the uncertainty
+  involved in not knowing what the tokens actually are.
+
+# Whether the item/service can only be used once
+consumable: true
