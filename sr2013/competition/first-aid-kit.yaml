@@ -1,0 +1,13 @@
+summary: First Aid kit to sit at Helpdesk
+
+cost: 21.90
+
+description: >-
+  One medium first aid kit from firenadsafetycentre.co.uk (KIT139BSM),
+  for the obvious reason.
+
+  There was one incident last competition involving a competitor with
+  a nasty cut that ended up being taped over.
+
+# Whether the item/service can only be used once
+consumable: true
