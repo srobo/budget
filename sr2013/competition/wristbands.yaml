@@ -1,0 +1,18 @@
+summary: Wristbands for entry to the competition
+
+cost: (1.25*400 + 10 + 10) * 1.05
+
+description: >-
+  Cost of 400 fabric wrist-bands.
+
+  Last year's competition for 20 teams used 220 bands.  Scaling that
+  up to 36 teams makes ~400 bands.
+
+  Estimate received over phone for these in June 2012:
+  http://www.wristbands.co.uk/wristbands-textag.htm
+
+  Price includes shipping, VAT and hire of the crimping tool, plus 5%
+  to cover for inflation and potential price increases.
+
+# Whether the item/service can only be used once
+consumable: true
