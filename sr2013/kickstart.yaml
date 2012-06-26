@@ -1,11 +1,11 @@
 summary: Money for SR2013 kickstart
 
 # Cost of the item
-cost: (10.00 * sr2013_teams) + 50.00
+cost: 500 + 50
 
 # Long description
 description: >-
-  This is to cover the cost of 'mini-game' bits and bobs and printing.
+  Potential venue hire cost (£500) and mini-game bits (£50).
 
 # Whether the item/service can only be used once
 consumable: true
