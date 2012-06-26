@@ -1,0 +1,13 @@
+summary: Stuff for minigame
+
+# Cost of the item
+cost: 80.00
+
+# Long description
+description: >-
+  Stuff for minigame:
+    - mince pies: £30 (~165 mince pies + £5.50 shipping)
+    - misc bits: £50
+
+# Whether the item/service can only be used once
+consumable: true
