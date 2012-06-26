@@ -1,0 +1,12 @@
+summary: Refreshments for the competition
+
+cost: 110
+
+description: >-
+  Tea/coffee/biscuits/cups etc for the competition.
+
+  Last year we spent ~£60 on tea/coffee.  This competition is 1.8
+  times larger with 36 teams planned.  So £110.
+
+# Whether the item/service can only be used once
+consumable: true
