@@ -1,0 +1,10 @@
+summary: Four red buttons from Farnell for arena mounting in case of panic
+
+cost: 15.31 * 4
+
+description: >-
+  Four Camden-Boss CSC1-50 red buttons from Farnell. These will be hooked
+  up to compd and will stop robots and display no-entry signs.
+
+# Whether the item/service can only be used once
+consumable: false
