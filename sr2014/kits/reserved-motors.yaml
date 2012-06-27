@@ -1,0 +1,18 @@
+summary: Funds reserved for sr2014 motor controllers
+
+cost: 4070
+
+description: >-
+  This line may *not* be claimed against.
+
+  We're not manufacturing the "new" USB motor controller in SR2012,
+  because it's not ready yet.  Instead, we hope to manufacture them in
+  SR2013.  This blob of money is the amount that we have left from the
+  SR2012 motor controller budget after manufacturing enough "old"
+  motor controllers to see us through SR2013.
+
+  Once the Motorola app (submitted in 2012) has arrived, this will be
+  reassigned to the manufacture of the sr2014 motor controllers.
+
+# Whether the item/service can only be used once
+consumable: false
