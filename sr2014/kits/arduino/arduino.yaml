@@ -1,0 +1,13 @@
+summary: Arduino-like boards for sr2014 kits
+
+cost: 24 * sr2014_total_kits
+
+description: >-
+  The JointIO board is going to be replaced by something like an
+  Arduino.
+
+  This price is for the "Ruggeduino":
+  http://ruggedcircuits.com/html/ruggeduino.html
+
+# Whether the item/service can only be used once
+consumable: false

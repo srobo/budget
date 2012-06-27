@@ -1,0 +1,12 @@
+summary: Screw-terminal arduino shield for sr2014 kits
+
+cost: 5.10 * sr2014_total_kits
+
+description: >-
+  Screw terminal arduino shields for the arduinos in the sr2014 kits.
+
+  For easy access to the pins.  Based on the price here:
+  http://www.robotshop.com/eu/dfrobot-arduino-compatible-screw-shield.html
+
+# Whether the item/service can only be used once
+consumable: false
