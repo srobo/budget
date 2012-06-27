@@ -1,0 +1,9 @@
+summary: Wire for the SR2013 kits
+
+cost: 12.00 * sr2013_total_kits
+
+description: >-
+  Cost based on what was paid for wire in SR2011.
+
+# Whether the item/service can only be used once
+consumable: true

@@ -1,0 +1,11 @@
+summary: Assembly for the power boards
+
+cost: 80.00 * new_kits
+
+description: >-
+  Based on a quote obtained from the PCB Train website. I expect it may cost
+  less than this if we get them assembled by Garner Osborne but this is the
+  worst-case.
+
+# Whether the item/service can only be used once
+consumable: false

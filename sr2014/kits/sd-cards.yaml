@@ -1,0 +1,13 @@
+summary: SD cards for BeagleBoards
+
+# Cost of the item
+cost: 5 * sr2013_total_kits
+
+# Long description
+description: >-
+  To deploy more exciting software situations on the BeagleBoards,
+  they will need to be shipped with SD cards in them.  This is enough
+  for an 8GB SD card for each kit.
+
+# Whether the item/service can only be used once
+consumable: false

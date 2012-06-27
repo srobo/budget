@@ -1,0 +1,14 @@
+summary: Bits of mech kit
+
+# Cost of the item
+cost: 21.87 * sr2013_teams
+
+# Long description
+description: >-
+  For the various bits and pieces that will form the mech kit.
+
+  Last year we spend 21.87 per team on these things, so just multiply
+  by that.
+
+# Whether the item/service can only be used once
+consumable: true

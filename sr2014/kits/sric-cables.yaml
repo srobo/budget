@@ -1,0 +1,16 @@
+summary: New 8P8C/RJ45 cables
+
+# Cost of the item
+cost: ((0.37 * 3) + (0.46 * 4) + (0.62 * 2)) * new_kits
+
+# Long description
+description: >-
+  New cables for the new kits.
+  - 3x 0.3m cables
+  - 4x 0.5m cables
+  - 2x 1m cables
+  As per https://www.studentrobotics.org/docs/kit/.
+  Prices from http://www.comms-express.com/products/booted-rj45-patch-leads/
+
+# Whether the item/service can only be used once
+consumable: false

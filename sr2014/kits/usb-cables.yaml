@@ -1,0 +1,9 @@
+summary: USB-A to USB-B mini cables
+
+cost: 1.02 * new_kits
+
+description: >-
+  Price for 10x Farnell 1651027.
+
+# Whether the item/service can only be used once
+consumable: false

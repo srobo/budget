@@ -1,0 +1,9 @@
+summary: USB keys for the new kits
+
+cost: 8.00 * new_kits
+
+description: >-
+  Cost is based on what we paid in SR2011.
+
+# Whether the item/service can only be used once
+consumable: false
