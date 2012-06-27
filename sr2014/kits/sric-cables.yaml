@@ -1,7 +1,7 @@
 summary: New 8P8C/RJ45 cables
 
 # Cost of the item
-cost: ((0.37 * 3) + (0.46 * 4) + (0.62 * 2)) * new_kits
+cost: ((0.37 * 3) + (0.46 * 4) + (0.62 * 2)) * sr2014_new_kits
 
 # Long description
 description: >-
