@@ -1,6 +1,6 @@
 summary: Assembly for the power boards
 
-cost: 80.00 * new_kits
+cost: 80.00 * sr2014_new_kits
 
 description: >-
   Based on a quote obtained from the PCB Train website. I expect it may cost

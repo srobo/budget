@@ -1,7 +1,7 @@
 summary: PCBs for the power boards
 
 # Cost of the item
-cost: 10.00 * new_kits
+cost: 10.00 * sr2014_new_kits
 
 # Long description
 description: >-

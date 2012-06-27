@@ -1,6 +1,6 @@
 summary: Components for the power boards
 
-cost: 36.00 * new_kits
+cost: 36.00 * sr2014_new_kits
 
 description: >-
   Based on https://www.studentrobotics.org/trac/wiki/Kits/2011. Note that the
