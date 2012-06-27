@@ -1,7 +1,7 @@
 summary: Boxes for teams to store and carry kit in
 
 # Cost of the item
-cost: 15.6 * ceil(new_kits * 1.1)
+cost: 15.6 * ceil(sr2014_new_kits * 1.1)
 
 # Long description
 description: >-
