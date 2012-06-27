@@ -45,7 +45,7 @@ vars:
   sr2014_teams: floor(1.5 * sr2013_teams)
 
   # Number of dev kits we'll own in SR2014
-  sr2014_dev_kits: dev_kits + 5
+  sr2014_dev_kits: sr2013_dev_kits + 5
 
   # Total number of kits we'll own in SR2014
   sr2014_total_kits: ceil(sr2014_teams * 1.25) + sr2013_dev_kits
