@@ -1,10 +1,9 @@
 summary: Scaffolding hire
 
-cost: 70.00
+cost: 116.92
 
 description: >-
-  This covers the scaffolding for the arena's construction, assuming we use the
-  same supplier as the SR2011 competition (Harsco).
+  This covers the scaffolding for the arena's construction.
 
 # Whether the item/service can only be used once
 consumable: true

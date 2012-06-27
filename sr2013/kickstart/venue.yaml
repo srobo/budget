@@ -1,0 +1,12 @@
+summary: Venue hire for kickstart
+
+# Cost of the item
+cost: 500.00
+
+# Long description
+description: >-
+  We may end up having to pay for garden court for kickstart if
+  someone else books it.  They'd charge £500 if that happened.
+
+# Whether the item/service can only be used once
+consumable: true

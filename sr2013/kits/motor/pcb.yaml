@@ -1,7 +1,7 @@
 summary: PCBs for the v3 motor boards
 
 # Cost of the item
-cost: 4.00 * 2 * sr2013_total_kits
+cost: 4.00 * 2 * new_kits
 
 # Long description
 description: >-
