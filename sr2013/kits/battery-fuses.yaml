@@ -1,0 +1,15 @@
+summary: Fuses and holders for LiPo batteries
+
+cost: (2.34 + 1) * 2 * sr2013_total_kits
+
+description: >-
+  Inline Maxi blade fuse holder and Maxi blade fuse for each battery.
+
+  Fuse holder:
+  http://www.technobotsonline.com/maxi-blade-fuse-holder-30430.html
+
+  Fuses can be bought from a variety of places -- for less than £1
+  each.
+
+# Whether the item/service can only be used once
+consumable: false
