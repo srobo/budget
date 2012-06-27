@@ -1,13 +1,11 @@
 summary: Webcams for the new kits
 
-cost: 40 * new_kits
+cost: 10 * sr2014_new_kits
 
 description: >-
-  Based on searching Google product search for "Logitech C500".
+  Logitech C300 webcams for the new kits.
 
- 
-  
-
+  £9.99 from eBuyer: http://www.ebuyer.com/170143-logitech-c300-webcam-1-3-megapixel-with-logitech-vid-software-960-000354
 
 # Whether the item/service can only be used once
 consumable: false
