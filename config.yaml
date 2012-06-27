@@ -16,6 +16,9 @@ vars:
   # Total number of kits we'll own in SR2012
   total_kits: ceil(teams * 1.25) + dev_kits
 
+  # Number of whole kits that were completely lost/destroyed in SR2013
+  sr2012_destroyed_kits: 2
+
   #########################################################
   # The following variables all refer to SR2013,
   # kit will need to be manufactured in SR2012.
@@ -29,11 +32,8 @@ vars:
   # Total number of kits we'll own in SR2013
   sr2013_total_kits: ceil(sr2013_teams * 1.25) + sr2013_dev_kits
 
-  # Number of whole kits that were completely lost/destroyed in SR2013
-  sr2013_destroyed_kits: 2
-
   # Number of kits to manufacture in SR2013
-  new_kits: sr2013_total_kits - total_kits + sr2013_destroyed_kits
+  new_kits: sr2013_total_kits - total_kits + sr2012_destroyed_kits
 
   # Number of kits there will be at the end of SR2013
   sr2013_end_kits: sr2013_total_kits
