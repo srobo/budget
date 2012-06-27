@@ -1,0 +1,10 @@
+summary: USB wifi dongles for the kits
+
+cost: 10.00 * sr2013_total_kits
+
+description: >-
+  It's not clear which dongle we'll use, but a large variety of
+  dongles can currently be bought for ~£10.
+
+# Whether the item/service can only be used once
+consumable: false
