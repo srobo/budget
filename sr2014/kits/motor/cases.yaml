@@ -1,11 +1,16 @@
-summary: Cases for v3 motor boards
+summary: Cases for the USB motor boards
 
-cost: 14.00 * 2 * sr2013_total_kits
+cost: 14.00 * 2 * sr2014_total_kits
 
 description: >-
+  USB motor board cases.
+
+  All of our motor boards are being replaced with USB motor boards for
+  SR2014.
+
   As these boards don't exist yet it's very hard to know how much cases will
   cost. The estimate is based on the cost of the motor, jointio and servo
-  board cases from last year.
+  board cases from the last batch created.
 
 # Whether the item/service can only be used once
 consumable: false

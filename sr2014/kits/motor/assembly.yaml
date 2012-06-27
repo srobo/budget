@@ -1,13 +1,19 @@
-summary: Assembly for the v3 motor boards
+summary: Assembly of the USB motor boards
 
-cost: 14.55 * 2 * sr2013_total_kits
+cost: 14.55 * 2 * sr2014_total_kits
 
 description: >-
-  It has been assumed that there will be less components, both unique and total
-  on the v3 motor board compared to the v2 motor board due to using the
-  monolithic H-bridge IC.
-  Based on a quote obtained from the PCB Train website with 110 parts in total
-  and 35 unique BOM lines.
+  USB motor board assembly.
+
+  All of our motor boards are being replaced with USB motor boards for
+  SR2014.
+
+  It has been assumed that there will be less components, both unique
+  and total on the v3 motor board compared to the v2 motor board due
+  to using the monolithic H-bridge IC.
+
+  Based on a quote obtained from the PCB Train website with 110 parts
+  in total and 35 unique BOM lines.
 
 # Whether the item/service can only be used once
 consumable: false
