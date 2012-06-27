@@ -1,6 +1,6 @@
-summary: Assembly for the servo boards
+summary: Assembly of USB servo boards
 
-cost: 38.00 * new_kits
+cost: 38.00 * sr2014_total_kits
 
 description: >-
   Based on a quote obtained from the PCB Train website. I expect it may cost
