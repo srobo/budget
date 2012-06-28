@@ -1,0 +1,16 @@
+summary: Components for the USB motor boards
+
+cost: 1596
+
+description: >-
+  USB motor board assembly.
+
+  All of our motor boards are being replaced with USB motor boards for
+  SR2014.
+
+  Based on the cost of the components for the v2 boards plus a little bit due
+  to using a monolithic H-bridge IC which might work out slightly more
+  expensive. See https://www.studentrobotics.org/trac/wiki/Kits/2011.
+
+# Whether the item/service can only be used once
+consumable: false

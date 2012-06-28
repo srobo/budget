@@ -1,0 +1,18 @@
+summary: PCBs for the USB motor boards
+
+# Cost of the item
+cost: 304
+
+# Long description
+description: >-
+  Partial funds for USB motor board assembly.
+
+  All of our motor boards are being replaced with USB motor boards for
+  SR2014.
+
+  See https://www.studentrobotics.org/trac/wiki/Kits/2011 for cost. Based on
+  what we paid Garner Osborne for the v2 motor boards last year. I expect them
+  to be significantly smaller so the cost should be less.
+
+# Whether the item/service can only be used once
+consumable: false
