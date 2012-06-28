@@ -1,6 +1,5 @@
 summary: PCBs for the USB motor boards
 
-# Cost of the item
 cost: 4.00 * 2 * sr2014_total_kits
 
 # Long description
