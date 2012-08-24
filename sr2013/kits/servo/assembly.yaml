@@ -1,11 +1,12 @@
-summary: Assembly for the servo boards
+summary: Servo board PCBS, components and assembly
 
-cost: 38.00 * new_kits
+cost: 1083.74
 
 description: >-
-  Based on a quote obtained from the PCB Train website. I expect it may cost
-  less than this if we get them assembled by Garner Osborne but this is the
-  worst-case.
+  Funds for the manufacture of 23 SR13.F Servo boards -- enough to
+  bring us up to our required 58 kits.
+
+  This is based on a quotation from Garner Osborne.
 
 # Whether the item/service can only be used once
 consumable: false
