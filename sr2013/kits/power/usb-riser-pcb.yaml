@@ -1,0 +1,10 @@
+summary: PCBs for USB Risers
+
+cost: 3.52 * 22
+
+description: >-
+  PCB for usb risers, connects inside to outside.
+  22 needed, total is £77.39
+
+# Whether the item/service can only be used once
+consumable: false
