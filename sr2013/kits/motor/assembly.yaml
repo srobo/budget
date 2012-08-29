@@ -1,8 +1,10 @@
-summary: Assembly for the v3 motor boards
+summary: Motor board PCBs, components and assembly
 
-cost: 14.55 * 2 * new_kits
+cost: (14.55 * 2 + 8 + 42) * new_kits
 
 description: >-
+  Funds for the manufacture of new motor boards.
+
   It has been assumed that there will be less components, both unique and total
   on the v3 motor board compared to the v2 motor board due to using the
   monolithic H-bridge IC.
