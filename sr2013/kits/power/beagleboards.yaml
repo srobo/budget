@@ -1,10 +1,12 @@
 summary: BeagleBoards for power-board assemblies 
 
 # Cost of the item
-cost: 100 * new_kits
+cost: 2233
 
 description: >-
   BeagleBoards for inclusion in the batch of new SR2013 kits.
+
+  Value based on the price of the BeagleBoard C5 from Mouser.
 
 # Whether the item/service can only be used once
 consumable: false
