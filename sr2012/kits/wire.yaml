@@ -1,9 +1,9 @@
 summary: Wire for the SR2012 kits
 
-cost: 7.685 * total_kits
+cost: 195.07
 
 description: >-
-  Cost based on what we paid for wire in SR2011 
+  The amount that was spent on wire for the SR2012 kits.
 
 # Whether the item/service can only be used once
 consumable: true
