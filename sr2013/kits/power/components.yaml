@@ -1,0 +1,11 @@
+summary: Peripheral components for assembling power board assemblies.
+
+cost: 195
+
+description: >-
+  Covers cost of purchasing all components required to construct a power board
+  assembly out of its primary parts. This means fuses, switches, knobs, and
+  parts for mounting the beagleboard. Cost of this purchase calculated in trac
+  ticket 1348.
+
+consumable: false
