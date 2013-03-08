@@ -1,0 +1,23 @@
+summary: Power and audio equipment for the competition
+
+cost: 75 + 540
+
+description: >-
+  Both the hire of cabling, and purchase of RCDs for deployment
+  amongst said cabling.
+
+  We already have 12 RCDs, which was enough for a 20-team
+  competition.  Our competition is going to approximately double in
+  size (36 teams), so we need approximately another 12 RCDs.  The
+  RCDs that we purchased previously have gone up in price, but some
+  cheaper ones have also come along.  So this budgets £5 per RCD, plus
+  some fudge -> £75.
+
+  Since the competition's bigger, it requires more cable than last
+  year as well.  So the cable hire will go up as well.  We spent ~£300
+  on cable hire last year, and the event has 1.8 times as many teams.
+  So assuming a linear scaling, it's £540.  That includes power and
+  audio cabling, a radio mic, and a mixing desk etc.
+
+# Whether the item/service can only be used once
+consumable: true

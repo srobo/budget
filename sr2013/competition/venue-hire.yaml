@@ -1,0 +1,14 @@
+summary: Venue hire for the competition
+
+cost: 500
+
+description: >-
+  Garden Court will charge £500 for the venue hire for the competition
+  weekend if anybody else tries to hire it over that period. This covers
+  the potential cost of paying for that booking.
+
+  If all goes according to plan, we will not need to spend this.
+
+# Whether the item/service can only be used once
+consumable: true
+

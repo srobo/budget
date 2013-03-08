@@ -1,0 +1,13 @@
+summary: Wood for the arena
+
+# Cost of the item
+cost: 100
+
+# Long description
+description: >-
+  At sr2012 we had *just* enough wood to construct the arena.  Since
+  we will have lost some, we will need to get some pine.  We may even
+  need some hardboard.  This fund covers this.
+
+# Whether the item/service can only be used once
+consumable: false
