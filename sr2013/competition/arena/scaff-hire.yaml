@@ -1,10 +1,10 @@
 summary: Scaffolding hire
 
-cost: 120.00
+cost: 200.00*1.2
 
 description: >-
-  This covers the scaffolding for the arena's construction. The actual
-  spend last year was £116.92, so we round that up to £120.00.
+  This covers the scaffolding for the arena's construction. It does not
+  cover transport.
 
 # Whether the item/service can only be used once
 consumable: true
