@@ -6,5 +6,8 @@ description: >-
   This covers the scaffolding for the arena's construction. It does not
   cover transport.
 
+  Based on a quote from Harsco, on the specification given in the
+  arena repository (comp13).
+
 # Whether the item/service can only be used once
 consumable: true
