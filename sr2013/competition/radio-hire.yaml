@@ -1,0 +1,16 @@
+summary: Two-way radio hire for the competition
+
+cost: 1.2 * (10*11.0 + 11.0 + 11.0 + 5.0)
+
+description: >-
+  Based on hiring 10 Kirisin PT4200s from Amherst Enterprises Ltd,
+  which prices them at £11 for up to a week's hire for the 10-19
+  quantity bracket.
+
+  Also, £11 each way for transport, plus £5 remote collection fee.
+
+  http://www.walkie-talkie-radio.co.uk/downloads/Amherst-Radio-Hire-Price-List.pdf
+
+# Whether the item/service can only be used once
+consumable: true
+
