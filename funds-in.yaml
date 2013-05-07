@@ -8,12 +8,7 @@ incoming:
   - desc: Motorola sponsorship 2011
     amount: 31511.37
 
-    # This is a partial installment of the total that the Motorola
-    # Foundation gave us for SR2013-14.  At the time of injecting this
-    # installment, it's the value of the sr2013/competition tree,
-    # which is somewhat desperately needed right now for spending.
-    # The rest of the money will be injected into the budget master
-    # branch at a later date, replacing this entry with the full
-    # amount.
-  - desc: Motorola Foundation sponsorship for SR2013-14 -- Installment 1
-    amount: 3132.42
+    # We received £31281.36 from the Motorola Foundation
+    # in February 2013.  This divided by 1.1 is £28437.60
+  - desc: Motorola Foundation sponsorship for SR2013-14
+    amount: 28437.60
