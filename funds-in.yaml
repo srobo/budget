@@ -2,8 +2,11 @@
 incoming:
   - desc: Initial bank balance
     amount: 2000
+
+    # We received £34662.51 from the Motorola Foundation
+    # in April 2012.  This divided by 1.1 is £31511.37:
   - desc: Motorola sponsorship 2011
-    amount: 31844.30
+    amount: 31511.37
 
     # This is a partial installment of the total that the Motorola
     # Foundation gave us for SR2013-14.  At the time of injecting this
