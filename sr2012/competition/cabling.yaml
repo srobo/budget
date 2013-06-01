@@ -1,6 +1,6 @@
 summary: Cabling hire for the competition
 
-cost: 75 + 250
+cost: 375.05
 
 description: >-
   Both the hire of cabling, and purchase of RCDs for deployment
@@ -16,3 +16,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: true
+
+closed: true
