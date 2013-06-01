@@ -1,6 +1,6 @@
 summary: Cases for v3 motor boards
 
-cost: 14.00 * 2 * new_kits
+cost: 276.00
 
 description: >-
   As these boards don't exist yet it's very hard to know how much cases will
@@ -9,3 +9,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true
