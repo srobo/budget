@@ -1,6 +1,6 @@
 summary: Battery chargers for kits for sr2012 and sr2013
 
-cost: 980 + 94
+cost: 1190.51
 
 description: >-
   58 battery chargers for SR2012 and SR2013, including power cables.
@@ -17,3 +17,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true
