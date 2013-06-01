@@ -1,6 +1,6 @@
 summary: Replacement USB Hubs
 
-cost: (9.38 * 5) + 10.00
+cost: 61.73
 
 description: >-
   These are to replace hubs that have either broken or gone missing.
@@ -9,3 +9,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true

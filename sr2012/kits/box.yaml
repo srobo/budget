@@ -15,3 +15,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true

@@ -1,6 +1,6 @@
 summary: Beagleboards XMs for driving monitors in arena displays
 
-cost: 144 * 6
+cost: 864.00
 
 description: >-
   BeagleBoard XMs for driving monitors in arena displays.
@@ -8,3 +8,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true

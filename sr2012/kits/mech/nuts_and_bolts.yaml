@@ -1,7 +1,7 @@
 summary: Nuts, Washers and Bolts of varying sizes
 
 # Cost of the item
-cost: 34.20+58.20+30.00+28.50+48.60+8.75+12.55+16.65+9.30+11.75+20.70+49.80
+cost: 329.00
 
 # Long description
 description: >-
@@ -22,3 +22,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: true
+
+closed: true

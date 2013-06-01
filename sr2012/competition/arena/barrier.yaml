@@ -1,6 +1,6 @@
 summary: Parts for the bucket barrier
 
-cost: 80 + 35
+cost: 0
 
 description: >-
   The components of the bucket barrier:
@@ -17,3 +17,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: true
+
+closed: true

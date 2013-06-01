@@ -1,7 +1,7 @@
 summary: Other items required for the mech kit
 
 # Cost of the item
-cost: 55.80 + 57.45 + 23.97
+cost: 137.22
 
 # Long description
 description: >-
@@ -14,3 +14,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: true
+
+closed: true

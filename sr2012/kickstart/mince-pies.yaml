@@ -1,6 +1,6 @@
 summary: Mince pies for KickStart mini-game
 
-cost: 5.50 + (1.75 * 10)
+cost: 0
 
 description: >-
   Ten twelve-packs of Tesco Value Mince Pies for giving out at the mini-game.
@@ -12,3 +12,5 @@ description: >-
 # Whether the item/service can only be used once
 consumable: true
 
+
+closed: true

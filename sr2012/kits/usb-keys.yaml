@@ -1,6 +1,6 @@
 summary: Replacement USB keys
 
-cost: 6.00 * 5
+cost: 29.94
 
 description: >-
   These are to replace keys we have lost either due to them being damaged
@@ -14,3 +14,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true
