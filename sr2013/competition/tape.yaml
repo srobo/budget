@@ -1,6 +1,6 @@
 summary: Tape of many varieties
 
-cost: 170.00
+cost: 222.44
 
 description: >-
   Last year we spent £140 on tape for the comp.  It's a bigger event,
@@ -8,3 +8,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: true
+
+closed: true
