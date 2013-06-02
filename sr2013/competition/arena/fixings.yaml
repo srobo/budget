@@ -1,6 +1,6 @@
 summary: Fixings for arena construction
 
-cost: 45
+cost: 5.32
 
 description: >-
   Various fixings for the arena.
@@ -13,3 +13,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: true
+
+closed: true

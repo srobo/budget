@@ -1,7 +1,7 @@
 summary: Hosting of web services
 
 # Cost of the item
-cost: 300
+cost: 320.00
 
 # Long description
 description: >-
@@ -12,3 +12,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: true
+
+closed: true

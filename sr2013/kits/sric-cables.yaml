@@ -1,7 +1,7 @@
 summary: New 8P8C/RJ45 cables
 
 # Cost of the item
-cost: ((0.37 * 3) + (0.46 * 4) + (0.62 * 2)) * new_kits
+cost: 64.08
 
 # Long description
 description: >-
@@ -14,3 +14,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true

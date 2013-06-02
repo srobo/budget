@@ -1,9 +1,11 @@
 summary: CamCon connectors for use by competitors.
 
-cost: 288
+cost: 288.00
 
 description: >-
   Covers all flavours ({2,4,8}-way) of camcon connectors that will make up the
   SR2013 kit. Cost based on trac ticket 1337.
 
 consumable: true
+
+closed: true

@@ -1,6 +1,6 @@
 summary: Venue hire for the competition
 
-cost: 500*1.2
+cost: 0
 
 description: >-
   The Cube costs 500 for the various parts of venue hire, plus 20% VAT.
@@ -8,3 +8,5 @@ description: >-
 # Whether the item/service can only be used once
 consumable: true
 
+
+closed: true

@@ -1,6 +1,6 @@
 summary: JointIO board PCBs, components and assembly
 
-cost: 1221.80
+cost: 1230.72
 
 description: >-
   Funds for the manufacture of 21 SR13.F JointIO boards -- enough to
@@ -10,3 +10,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true

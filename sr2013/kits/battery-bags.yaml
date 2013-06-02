@@ -1,6 +1,6 @@
 summary: Bags to charge LiPo batteries in
 
-cost: 380
+cost: 380.00
 
 description: >-
   Bags for charging LiPo batteries in to contain fire.
@@ -9,3 +9,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true

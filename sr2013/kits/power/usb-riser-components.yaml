@@ -1,6 +1,6 @@
 summary: Components for USB Risers, sockets.
 
-cost: 1 * 22
+cost: 22.00
 
 description: >-
   Connects the usb internally to the outside.
@@ -8,3 +8,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true

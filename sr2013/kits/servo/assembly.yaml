@@ -1,6 +1,6 @@
 summary: Servo board PCBS, components and assembly
 
-cost: 1083.74
+cost: 1101.73
 
 description: >-
   Funds for the manufacture of 23 SR13.F Servo boards -- enough to
@@ -10,3 +10,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true

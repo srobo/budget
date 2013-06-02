@@ -1,7 +1,7 @@
 summary: Notarisation of charitable equivalency form
 
 # Cost of the item
-cost: 75.00
+cost: 0
 
 # Long description
 description: >-
@@ -12,3 +12,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: true
+
+closed: true

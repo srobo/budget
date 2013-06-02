@@ -1,7 +1,7 @@
 summary: Boxes for teams to store and carry kit in
 
 # Cost of the item
-cost: 10.75 * 40 + 50.99
+cost: 480.99
 
 # Long description
 description: >-
@@ -14,3 +14,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true

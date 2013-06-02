@@ -1,6 +1,6 @@
 summary: RCDs for each team in the competition
 
-cost: 75
+cost: 66.08
 
 description: >-
   Purchase for RCDs for deployment to each team.
@@ -14,3 +14,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true

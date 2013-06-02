@@ -1,6 +1,6 @@
 summary: Scaffolding hire
 
-cost: 200.00*1.2
+cost: 240.00
 
 description: >-
   This covers the scaffolding for the arena's construction. It does not
@@ -11,3 +11,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: true
+
+closed: true

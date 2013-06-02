@@ -1,6 +1,6 @@
 summary: Velcro for safe battery attachment.
 
-cost: 89
+cost: 88.46
 
 description: >-
   Velcro to be attached to batteries, to ensure they can be safely stuck to a
@@ -8,3 +8,5 @@ description: >-
   made in trac ticket 949.
 
 consumable: true
+
+closed: true

@@ -1,6 +1,6 @@
 summary: Two-way radio hire for the competition
 
-cost: 1.2 * (10*11.0 + 11.0 + 11.0 + 5.0)
+cost: 164.40
 
 description: >-
   Based on hiring 10 Kirisin PT4200s from Amherst Enterprises Ltd,
@@ -14,3 +14,5 @@ description: >-
 # Whether the item/service can only be used once
 consumable: true
 
+
+closed: true

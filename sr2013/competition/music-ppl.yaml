@@ -1,6 +1,6 @@
 summary: Licencing for playing music
 
-cost: 55.00
+cost: 0
 
 description: >-
   To play music in public, we need a PPL licence.
@@ -9,3 +9,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: true
+
+closed: true

@@ -1,6 +1,6 @@
 summary: Refreshments for the competition
 
-cost: 110
+cost: 57.87
 
 description: >-
   Tea/coffee/biscuits/cups etc for the competition.
@@ -10,3 +10,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: true
+
+closed: true

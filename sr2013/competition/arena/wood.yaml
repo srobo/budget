@@ -1,7 +1,7 @@
 summary: Wood for the arena
 
 # Cost of the item
-cost: 100
+cost: 13.18
 
 # Long description
 description: >-
@@ -11,3 +11,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true

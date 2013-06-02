@@ -1,6 +1,6 @@
 summary: Name badges for Blueshirts at events
 
-cost: (23.09 + 4.99) * 1.05
+cost: 0
 
 description: >-
   This covers the cost of the combi clip name badges based on the Staples
@@ -9,3 +9,5 @@ description: >-
 
 
 consumable: false
+
+closed: true

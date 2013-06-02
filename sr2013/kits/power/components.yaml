@@ -1,6 +1,6 @@
 summary: Peripheral components for assembling power board assemblies.
 
-cost: 195
+cost: 193.60
 
 description: >-
   Covers cost of purchasing all components required to construct a power board
@@ -9,3 +9,5 @@ description: >-
   ticket 1348.
 
 consumable: false
+
+closed: true

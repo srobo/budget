@@ -1,6 +1,6 @@
 summary: PCBs for USB Risers
 
-cost: 3.52 * 22
+cost: 77.39
 
 description: >-
   PCB for usb risers, connects inside to outside.
@@ -8,3 +8,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true

@@ -1,6 +1,6 @@
 summary: Motor board PCBs, components and assembly
 
-cost: 1940.35
+cost: 1958.35
 
 description: >-
   Funds for the manufacture of 48 SR13.F motor boards.
@@ -10,3 +10,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true

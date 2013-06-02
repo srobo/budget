@@ -1,6 +1,6 @@
 summary: Screws, nuts and cable ties to assemble board cases.
 
-cost: 33
+cost: 33.59
 
 description: >-
   We need to purchase more plastic screws and nuts for the board cases being
@@ -8,3 +8,5 @@ description: >-
   cost of this was estimated in trac ticket 1347.
 
 consumable: false
+
+closed: true

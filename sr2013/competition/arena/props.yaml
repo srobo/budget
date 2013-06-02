@@ -1,6 +1,6 @@
 summary: Props for the arena
 
-cost: 150
+cost: 0
 
 description: >-
   Cost of pedestal and token assembly. Probably a vast overestimate.
@@ -9,3 +9,5 @@ description: >-
   expensive.
 
 consumable: true
+
+closed: true

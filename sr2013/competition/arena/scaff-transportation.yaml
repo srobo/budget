@@ -1,6 +1,6 @@
 summary: Scaffolding hire
 
-cost: 2*(50 + 20)
+cost: 136.73
 
 description: >-
   This covers the cost of transporting the scaff from Harsco's Nursling
@@ -9,3 +9,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: true
+
+closed: true

@@ -1,6 +1,6 @@
 summary: Power board PCBs, components and assembly
 
-cost: 2819.28
+cost: 2877.22
 
 description: >-
   Funds for the manufacture of new power boards.
@@ -10,3 +10,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true

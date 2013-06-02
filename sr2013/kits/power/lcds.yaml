@@ -1,6 +1,6 @@
 summary: LCD displays for the power boards
 
-cost: 545.76
+cost: 592.60
 
 description: >-
   LCDs for new SR2013 power boards, and to replace broken / absent LCDs on
@@ -8,3 +8,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true

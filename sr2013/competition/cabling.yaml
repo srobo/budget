@@ -1,6 +1,6 @@
 summary: Power and audio equipment for the competition
 
-cost: 75 + 540
+cost: 0
 
 description: >-
   Both the hire of cabling, and purchase of RCDs for deployment
@@ -21,3 +21,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: true
+
+closed: true

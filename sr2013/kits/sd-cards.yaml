@@ -1,7 +1,7 @@
 summary: SD cards for BeagleBoards
 
 # Cost of the item
-cost: 5 * sr2013_total_kits
+cost: 0
 
 # Long description
 description: >-
@@ -11,3 +11,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true

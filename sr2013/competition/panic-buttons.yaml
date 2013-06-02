@@ -1,6 +1,6 @@
 summary: Four red buttons from Farnell for arena mounting in case of panic
 
-cost: 15.31 * 4
+cost: 24.16
 
 description: >-
   Four Camden-Boss CSC1-50 red buttons from Farnell. These will be hooked
@@ -8,3 +8,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true

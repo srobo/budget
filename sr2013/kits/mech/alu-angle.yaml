@@ -1,7 +1,7 @@
 summary: 2m 3/4in 1.6mm aluminium angle, 4 per kit
 
 # Cost of the item
-cost: (251.44/25) * sr2013_teams
+cost: 325.73
 
 # Long description
 description: >-
@@ -11,3 +11,5 @@ description: >-
   
 # Whether the item/service can only be used once
 consumable: true
+
+closed: true
