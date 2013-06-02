@@ -1,11 +1,12 @@
-summary: Assembly for the power boards
+summary: Power board PCBs, components and assembly
 
-cost: 80.00 * new_kits
+cost: 2819.28
 
 description: >-
-  Based on a quote obtained from the PCB Train website. I expect it may cost
-  less than this if we get them assembled by Garner Osborne but this is the
-  worst-case.
+  Funds for the manufacture of new power boards.
+
+  Garner Osborne have quoted £2819.28 for the manufacture of 26 power
+  boards.  This is for the components, bare boards, and assembly.
 
 # Whether the item/service can only be used once
 consumable: false

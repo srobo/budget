@@ -1,14 +1,11 @@
-summary: Components for the power boards
+summary: Peripheral components for assembling power board assemblies.
 
-cost: 36.00 * new_kits
+cost: 195
 
 description: >-
-  Based on https://www.studentrobotics.org/trac/wiki/Kits/2011. Note that the
-  price on that page includes the BeagleBoard and LCD. I've assumed they're
-  £88 and £20 respectively for the purpose of this budget line.
+  Covers cost of purchasing all components required to construct a power board
+  assembly out of its primary parts. This means fuses, switches, knobs, and
+  parts for mounting the beagleboard. Cost of this purchase calculated in trac
+  ticket 1348.
 
-  
-
-
-# Whether the item/service can only be used once
 consumable: false

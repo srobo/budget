@@ -1,0 +1,10 @@
+summary: Components for USB Risers, sockets.
+
+cost: 1 * 22
+
+description: >-
+  Connects the usb internally to the outside.
+  Only two components, one £0.38 for 10-49, the other £0.62 for 10-49
+
+# Whether the item/service can only be used once
+consumable: false

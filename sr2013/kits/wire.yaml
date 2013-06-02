@@ -1,9 +1,11 @@
 summary: Wire for the SR2013 kits
 
-cost: 12.00 * sr2013_total_kits
+cost: 170.24
 
 description: >-
-  Cost based on what was paid for wire in SR2011.
+  Cost calculated by Lilafisch based on contents of the vault and how much more
+  we need to order to produce the same kit that we shipped in SR2012. See trac
+  ticket 1338
 
 # Whether the item/service can only be used once
 consumable: true

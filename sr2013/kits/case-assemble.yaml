@@ -1,0 +1,10 @@
+summary: Screws, nuts and cable ties to assemble board cases.
+
+cost: 33
+
+description: >-
+  We need to purchase more plastic screws and nuts for the board cases being
+  constructed for SR2013; also cable ties for sealing new and old cases. The
+  cost of this was estimated in trac ticket 1347.
+
+consumable: false

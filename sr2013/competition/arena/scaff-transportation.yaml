@@ -1,0 +1,11 @@
+summary: Scaffolding hire
+
+cost: 2*(50 + 20)
+
+description: >-
+  This covers the cost of transporting the scaff from Harsco's Nursling
+  depot to the Cube. Based on an estimate of 50 for van hire and 20 for
+  fuel, times two trips.
+
+# Whether the item/service can only be used once
+consumable: true

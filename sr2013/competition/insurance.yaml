@@ -1,9 +1,9 @@
 summary: Insurance against injury at the competition
 
-cost: 150.00
+cost: 152.00
 
 description: >-
-  This is a very rough estimate based on an insurance quote for sr2012.
+  This is based on a quotation from EISL.
 
 # Whether the item/service can only be used once
 consumable: true

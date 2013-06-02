@@ -1,13 +1,9 @@
 summary: Venue hire for the competition
 
-cost: 500
+cost: 500*1.2
 
 description: >-
-  Garden Court will charge £500 for the venue hire for the competition
-  weekend if anybody else tries to hire it over that period. This covers
-  the potential cost of paying for that booking.
-
-  If all goes according to plan, we will not need to spend this.
+  The Cube costs 500 for the various parts of venue hire, plus 20% VAT.
 
 # Whether the item/service can only be used once
 consumable: true

@@ -1,6 +1,6 @@
 summary: Cases for the new power boards
 
-cost: 20.00 * new_kits
+cost: 547.20
 
 description: >-
   Cases for the new power boards.
@@ -10,3 +10,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true

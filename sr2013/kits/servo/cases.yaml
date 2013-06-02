@@ -1,6 +1,6 @@
 summary: Cases for servo boards
 
-cost: 16.00 * new_kits
+cost: 212.16
 
 description: >-
   Cases for the jointio boards.
@@ -10,3 +10,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true

@@ -1,11 +1,11 @@
 summary: Props for the arena
 
-cost: 250
+cost: 150
 
 description: >-
-  The sr2013 game will inevitably require some props that are an
-  important part of the game.  We don't know what they are yet, but we
-  do know that we spent £250 on props (buckets and bucket barrier)
-  for last year's game.  So let's allocate that amount.
+  Cost of pedestal and token assembly. Probably a vast overestimate.
+  Based on a figure of 250 actual spend last year on the buckets and
+  bucket barriers, with 100 slashed off since those were far more
+  expensive.
 
 consumable: true

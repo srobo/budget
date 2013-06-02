@@ -1,17 +1,15 @@
 summary: Boxes for teams to store and carry kit in
 
 # Cost of the item
-cost: 15.6 * ceil(new_kits * 1.1)
+cost: 10.75 * 40 + 50.99
 
 # Long description
 description: >-
-  Boxes for teams to store and carry kit away from kickstart in.
-  These are 35L strong, white "Really Useful Box"
-
-  Enough boxes for the new teams for SR2013, plus 10% more to allow for loss.
+  Boxes for both storing kit and teams to take it away in.
+  These are 18L strong, white "Really Useful Box"
 
   Price calculated from using this website:
-  http://www.reallyusefulproducts.co.uk/uk/html/onlineshop/rub/b35_0litre.php
+    http://www.reallyusefulproducts.co.uk/uk/html/onlineshop/rub/b18_0litre.php
   Includes shipping and VAT.
 
 # Whether the item/service can only be used once

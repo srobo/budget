@@ -1,0 +1,16 @@
+summary: RCDs for each team in the competition
+
+cost: 75
+
+description: >-
+  Purchase for RCDs for deployment to each team.
+
+  We already have 12 RCDs, which was enough for a 20-team
+  competition.  Our competition is going to approximately double in
+  size (36 teams), so we need approximately another 12 RCDs.  The
+  RCDs that we purchased previously have gone up in price, but some
+  cheaper ones have also come along.  So this budgets £5 per RCD, plus
+  some fudge -> £75.
+
+# Whether the item/service can only be used once
+consumable: false

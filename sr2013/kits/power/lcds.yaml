@@ -1,10 +1,10 @@
 summary: LCD displays for the power boards
 
-cost: 20 * new_kits
+cost: 545.76
 
 description: >-
-  LCDs for the power boards.
-  They're still around on eBay for less than £20.
+  LCDs for new SR2013 power boards, and to replace broken / absent LCDs on
+  SR2012 kit. Cost estimated by Lilafisch from ebay listings, ticket 1349.
 
 # Whether the item/service can only be used once
 consumable: false

@@ -1,7 +1,7 @@
 summary: Boxes for teams to store and carry kit in
 
 # Cost of the item
-cost: 15.6 * teams
+cost: 209.75
 
 # Long description
 description: >-
@@ -11,9 +11,7 @@ description: >-
   These will be re-used.  The teams can return them on or before
   competition day, or with their kit.
 
-  Price calculated from using this website:
-  http://www.reallyusefulproducts.co.uk/uk/html/onlineshop/rub/b35_0litre.php
-  Includes shipping and VAT.
+  This is the amount that was spent on kit boxes in SR2012.
 
 # Whether the item/service can only be used once
 consumable: false

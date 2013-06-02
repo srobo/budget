@@ -1,13 +1,12 @@
-summary: Assembly for the v3 motor boards
+summary: Motor board PCBs, components and assembly
 
-cost: 14.55 * 2 * new_kits
+cost: 1940.35
 
 description: >-
-  It has been assumed that there will be less components, both unique and total
-  on the v3 motor board compared to the v2 motor board due to using the
-  monolithic H-bridge IC.
-  Based on a quote obtained from the PCB Train website with 110 parts in total
-  and 35 unique BOM lines.
+  Funds for the manufacture of 48 SR13.F motor boards.
+
+  This value is from a quote from Garner Osborne, who will do part
+  acquisition, board manufacture and assembly.
 
 # Whether the item/service can only be used once
 consumable: false
