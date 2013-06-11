@@ -1,0 +1,37 @@
+summary: Battery cables for SR2014
+
+cost: (65.10 + 34.50 + 5.22) * 1.2 + 35.70
+
+description: >-
+
+  Components for new battery cable assemblies and upgrade of existing
+  battery cables to XT60. (Of which there are 23 and 58 respectively.)
+
+  23 new cables require:
+   - wire:
+       0.5m * 23 = 11.5m of red and black.
+       Farnell 3653006 and 3653018
+       5m reels: £10.85 + VAT each
+       3 reels of each -> £65.10 + VAT
+
+   - big camcons
+       Farnell #1793033 -> £1.50 each + VAT
+       23 * 1.5 = £34.50 + VAT
+
+  Parts required for new assemblies, and upgrade of old assemblies:
+
+    - 81 Male XT60 connectors:
+        These packs contain 5 *pairs* of male and female connectors:
+          http://www.hobbyking.com/hobbyking/store/__9572__Nylon_XT60_Connectors_Male_Female_5_pairs_GENUINE.html
+        The female connectors will be used later in the year for
+        upgrading any older LiPo batteries to XT60.
+
+        17 packs -> 85 connector pairs
+        at £2.10 each -> £35.70
+
+   - heat shrink
+       10mm per wire per assembly/old-battery = 2.78m
+       Farnell 1191006: 1.2m heatshrink = £1.74 + VAT
+       Three lengths: £5.22 + VAT
+
+consumable: false
