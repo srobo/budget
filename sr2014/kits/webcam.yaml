@@ -1,11 +1,12 @@
 summary: Webcams for the new kits
 
-cost: 10 * sr2014_new_kits
+cost: 18 * sr2014_new_kits
 
 description: >-
-  Logitech C300 webcams for the new kits.
+  Logitech C270 webcams for the new kits.
 
-  £9.99 from eBuyer: http://www.ebuyer.com/170143-logitech-c300-webcam-1-3-megapixel-with-logitech-vid-software-960-000354
+  £17.99 from eBuyer
+  http://www.ebuyer.com/230435-logitech-c270-hd-webcam-720p-hd-video-usb-960-000582
 
 # Whether the item/service can only be used once
 consumable: false
