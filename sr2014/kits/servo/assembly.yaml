@@ -1,11 +1,10 @@
-summary: Assembly of USB servo boards
+summary: SR2014 Servo board PCBs, components and assembly
 
-cost: 38.00 * sr2014_total_kits
+cost: 1101.73
 
 description: >-
-  Based on a quote obtained from the PCB Train website. I expect it may cost
-  less than this if we get them assembled by Garner Osborne but this is the
-  worst-case.
+  PCBs, components and assembly of 23 servo boards by Garner Osborne.
+  In SR2013, we spent £1101.73 purchasing 23 servo boards.
 
 # Whether the item/service can only be used once
 consumable: false

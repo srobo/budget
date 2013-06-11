@@ -1,9 +1,0 @@
-summary: Components for the USB servo boards
-
-cost: 20.00 * sr2014_total_kits
-
-description: >-
-  Based on https://www.studentrobotics.org/trac/wiki/Kits/2011.
-
-# Whether the item/service can only be used once
-consumable: false

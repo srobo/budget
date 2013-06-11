@@ -1,12 +1,10 @@
-summary: Cases for USB servo boards
+summary: Cases for SR2014 servo boards
 
-cost: 16.00 * sr2014_total_kits
+cost: 8 * sr2014_new_kits
 
 description: >-
-  Cases for the USB servo boards.
-  Cases cost £14 each for SR2011, but this was for 38 kits,
-  so we should expect it to be a little more expensive.
-  No quote has been used to generate this number. 
+  Cases for the SR2014 servo boards.
+  Cases cost £7.57 each for SR2013.
 
 # Whether the item/service can only be used once
 consumable: false
