@@ -1,11 +1,13 @@
 summary: Batteries for kits for sr2014
 
-cost: 620
+cost: 5.06 * 2 * sr2014_total_kits
 
 description: >-
-  50 2200 mAh 11.1V LiPo batteries shipped from China.
+  2 of these LiPo batteries from Hobby King per kit:
+  http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=8932
 
-  Based on our previous spend on batteries.  
+  We're replacing all of our batteries, since the old ones weren't
+  that great.
 
 # Whether the item/service can only be used once
 consumable: false
