@@ -1,0 +1,13 @@
+summary: Android tablets for SR2015 kits
+
+cost: 25 * 1.2 * sr2015_total_kits
+
+description: >-
+  Android tablets for all SR kits.
+
+  Based on this:
+    http://www.aliexpress.com/item/Q88-7-Inch-Android-4-0-Capacitive-Screen-Tablet-with-512M-4GB-Camera-WIFI-Allwinner-Q88/684560129.html
+  with VAT because we'd almost certainly end up paying it on an import
+  of that size.
+
+consumable: false
