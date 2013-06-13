@@ -1,0 +1,11 @@
+summary: USB cables
+
+cost: 1.02 * ( sr2015_new_kits * 6 + sr2014_total_kits * 3 )
+
+description: >-
+  USB cables to connect everything together.
+
+  Estimate based on the cost of this cable from Farnell: #1651027.
+
+# Whether the item/service can only be used once
+consumable: false
