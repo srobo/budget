@@ -1,0 +1,12 @@
+summary: USB hubs for SR2015 kit
+
+cost: 9 * (sr2014_total_kits + (sr2015_new_kits * 2))
+
+description: >-
+  USB hubs for the SR2015 kits.
+
+  From #1724, it looks like we'll be able to get some 7-port hubs from
+  StarTech for £9 each.
+
+# Whether the item/service can only be used once
+consumable: false
