@@ -1,0 +1,12 @@
+summary: Case for Arduino-like board
+
+cost: 14.00 * sr2015_new_kits
+
+description: >-
+  Cases for the Arduinos.
+
+  SR2011 JointIO cases cost £14 each.  We may be able to get a case
+  off-the-shelf, or we might end up laser-cutting something.
+
+# Whether the item/service can only be used once
+consumable: false

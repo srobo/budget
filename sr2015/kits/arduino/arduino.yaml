@@ -1,0 +1,12 @@
+summary: Arduino-like boards for sr2015 kits
+
+cost: 24 * sr2015_new_kits
+
+description: >-
+  Arduino-like boards for the SR2015 kits.
+
+  This price is for the "Ruggeduino":
+  http://ruggedcircuits.com/html/ruggeduino.html
+
+# Whether the item/service can only be used once
+consumable: false
