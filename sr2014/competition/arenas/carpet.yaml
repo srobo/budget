@@ -1,0 +1,16 @@
+summary: Carpet for our arena
+
+cost: 240 + 150
+
+description: >-
+  Purchase and fitting of carpet for our second arena.
+
+  Carpet:
+    £2.99 per square metre based on this site (for 9x9m)
+      http://www.onlinecarpets.co.uk/carpets/style/cord-carpet/blue-cord-carpet.html
+
+  Fitting:
+    Carpet fitter seems unlikely to charge more than £150 for
+    significantly less than a morning's work, so budget that amount.
+
+consumable: true
