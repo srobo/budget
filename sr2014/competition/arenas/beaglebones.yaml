@@ -1,0 +1,13 @@
+summary: BeagleBone Blacks for arena displays
+
+cost: (31.56 + 5 + 5) * 6
+
+description: >-
+  The arena displays require something to drive them.
+
+  This cost is for 6 of the following set of things:
+    1) BeagleBone Black -- cost from Mouser £31.56
+    2) MicroHDMI cable -- £5 from Farnell
+    3) 5V power adapter -- £5 from CPC
+
+consumable: false

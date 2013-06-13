@@ -1,0 +1,9 @@
+summary: Hire of displays for arena
+
+cost: 60 * 6
+
+description: >-
+  Hire of displays for attaching to the arena, along with scaff brackets.
+  Approximate cost retrieved from PSCo for 32" displays.
+
+consumable: true
