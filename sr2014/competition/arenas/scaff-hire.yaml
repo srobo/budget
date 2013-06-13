@@ -1,0 +1,18 @@
+summary: Scaffolding hire
+
+cost: 550
+
+description: >-
+  Scaff hire and transport.
+
+  Twice as much scaff as last year for two arenas.  Price is double
+  the cost of last year's scaff plus £25 delivery each way, all
+  rounded up to £550.
+
+  SR2013's delivery situation was complex because Harsco's depo had
+  moved and they were still reconfiguring themselves.  At the time,
+  they had no delivery drivers, and so this resulted in a
+  significantly more expensive delivery charge.
+
+# Whether the item/service can only be used once
+consumable: true
