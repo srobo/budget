@@ -1,0 +1,14 @@
+summary: Tape of many varieties
+
+cost: 500
+
+description: >-
+  We spent £222 on tape in SR2013.  SR2014 is due to have two arenas,
+  and be generally larger, so this astronomical figure seems like it
+  might actually be reasonable.
+
+# Whether the item/service can only be used once
+consumable: true
+
+closed: false
+
