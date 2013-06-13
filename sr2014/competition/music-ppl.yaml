@@ -1,0 +1,15 @@
+summary: Licencing for playing music
+
+cost: 125
+
+description: >-
+  To play music in public, we need a PPL licence.
+
+  This assumes that the PPL licence scales with the number of people,
+  based on the amount we paid for SR2012.
+
+# Whether the item/service can only be used once
+consumable: true
+
+closed: false
+
