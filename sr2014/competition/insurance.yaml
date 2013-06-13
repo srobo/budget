@@ -1,0 +1,18 @@
+summary: Insurance against injury at the competition
+
+cost: 182
+
+description: >-
+  Last year (SR2013), we paid Event Insurance Services Ltd. £152 for
+  public liability insurance for an event with up to 500 people at it.
+  We actually had about 320 people attend, as this was the number of
+  wristbands we used.  We can expect SR2014 to involve about 1.5 times
+  as many people, which would be 480.  So it would be sensible to get
+  insurance for 600 people.
+
+  If we guess that the insurance company linearly scales (which it
+  won't, and will hopefully be better than linear), then this leads to
+  the price above for an event with 600 people.
+
+# Whether the item/service can only be used once
+consumable: true
