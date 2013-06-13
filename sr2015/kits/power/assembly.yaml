@@ -1,0 +1,15 @@
+summary: Power board PCBs, components, and assembly
+
+cost: 60.00 * sr2015_total_kits
+
+description: >-
+  Assembly of the new power boards (tentatively named the "genuine
+  power board").
+
+  This new power board will be smaller and have less on it.  I expect
+  it will be more than the SR13.F motor board (£40 each), and less
+  than the SR13.F power board in cost (£110 each).  £60 seems like a
+  reasonablly safe number to pick out of the air.
+
+# Whether the item/service can only be used once
+consumable: false
