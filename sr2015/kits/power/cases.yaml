@@ -1,0 +1,14 @@
+summary: Cases for the new power boards
+
+cost: 10.00 * sr2015_total_kits
+
+description: >-
+  Cases for the new power board.
+
+  The new power board will be smaller than the SR13.F one.  It'll also
+  probably be a bit larger than the SR13.F motor board.  Those old
+  cases cost £15 and £7 respectively.  So £10 seems like a reasonable
+  estimate.
+
+# Whether the item/service can only be used once
+consumable: false
