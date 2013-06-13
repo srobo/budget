@@ -1,0 +1,14 @@
+summary: Two-way radio hire for the competition
+
+cost: (165 + 27) * 1.2
+
+description: >-
+  Radios for the team shepherds, and other miscellaneous
+  communications needed at the competition.
+
+  Based on hire of 15 radios from Amherst Enterprises Ltd.
+  Including £27 shipping and VAT.
+  http://www.walkie-talkie-radio.co.uk/downloads/Amherst-Radio-Hire-Price-List.pdf
+
+# Whether the item/service can only be used once
+consumable: true
