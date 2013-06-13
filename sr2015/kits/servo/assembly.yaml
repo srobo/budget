@@ -1,0 +1,10 @@
+summary: SR2015 Servo board PCBs, components and assembly
+
+cost: 40 * sr2015_total_kits
+
+description: >-
+  Assembly of USB servo boards for all teams.
+  Cost estimated as the same as the SR13.F servo board.
+
+# Whether the item/service can only be used once
+consumable: false

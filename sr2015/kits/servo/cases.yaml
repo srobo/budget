@@ -1,0 +1,10 @@
+summary: Cases for SR2015 servo boards
+
+cost: 8 * sr2015_total_kits
+
+description: >-
+  Cases for the SR2015 servo boards.
+  Cases cost £7.57 each for SR2013.
+
+# Whether the item/service can only be used once
+consumable: false
