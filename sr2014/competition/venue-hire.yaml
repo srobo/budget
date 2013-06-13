@@ -1,0 +1,14 @@
+summary: Venue hire for the competition
+
+cost: 4000 * 3
+
+description: >-
+  Hire of a venue for three days, at approximately £4k per day.
+
+  There are several feasible venues that have provided a quote of this
+  magnitude.  Including Newbury Racecourse, and UWE Bristol Exhibition
+  and Conference Centre.  The exact venue is not fixed at this point
+  in time, but this amount of money is approximately the going rate.
+
+# Whether the item/service can only be used once
+consumable: true
