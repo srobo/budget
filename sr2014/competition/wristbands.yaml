@@ -1,0 +1,13 @@
+summary: Wristbands for entry to the competition
+
+cost: 375
+
+description: >-
+  Cost of 600 fabric wrist-bands.
+
+  Based on last year's spend on 500 wrist-bands.  320 of those were
+  used.  SR2014 will have 1.5 times as many people, which means that
+  we need 480 wrist-bands.  So 600 should be enough.
+
+# Whether the item/service can only be used once
+consumable: true
