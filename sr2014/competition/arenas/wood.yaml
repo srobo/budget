@@ -1,0 +1,16 @@
+summary: Wood for the arenas
+
+# Cost of the item
+cost: 100
+
+# Long description
+description: >-
+  Wood for the arenas.
+
+  We already have just about enough wood to construct an arena.  We'll
+  need enough for the second one too.  This is based on purchasing
+  approximately 16 of these:
+    http://www.diy.com/nav/build/timber/planed-square-edge-timber/planed-smooth/Planed-Smooth-Timber-L-2700-x-W-119-x-T-18mm-9275814
+
+# Whether the item/service can only be used once
+consumable: false
