@@ -1,0 +1,13 @@
+summary: Fixings for arena construction
+
+cost: 60
+
+description: >-
+  Various fixings for the arena.
+
+  For SR2012, we projected we'd need about £40 for arena fixings.  For
+  SR2013, we need enough for two arenas.  One arena doesn't use all
+  the fixings from £40, so only scale up by 1.5.
+
+# Whether the item/service can only be used once
+consumable: true
