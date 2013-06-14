@@ -1,0 +1,13 @@
+summary: Mentor travel to schools
+
+# Cost of the item
+cost: 750
+
+# Long description
+description: >-
+  This funding is _only_ for mentors travelling to team meetings.  It
+  is not for mentors travelling to the competition, kickstart, or any
+  other SR event.
+
+# Whether the item/service can only be used once
+consumable: true
