@@ -1,0 +1,15 @@
+summary: Boxes for teams to store and carry kit in
+
+# Cost of the item
+cost: 15.6 * ceil(sr2015_new_kits * 1.1)
+
+# Long description
+description: >-
+  Boxes for teams to store and carry kit away from kickstart in.
+  These are 35L strong, white "Really Useful Box"
+
+  Enough boxes for the new teams for SR2015, plus 10% more to allow for loss.
+  Price based on last year's expenditure.
+
+# Whether the item/service can only be used once
+consumable: false
