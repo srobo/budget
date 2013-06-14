@@ -1,0 +1,15 @@
+summary: Money for unexpected shipping
+
+# Cost of the item
+cost: 300.00
+
+# Long description
+description: >-
+  Last we we spend £227.85 on shipping.  This seems like a reasonable
+  amount to budget for this.
+
+  This fund is for the emergency shipping of things to and from teams,
+  not for shipping kit to them.
+
+# Whether the item/service can only be used once
+consumable: true
