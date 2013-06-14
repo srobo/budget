@@ -1,0 +1,11 @@
+summary: Bags to charge LiPo batteries in
+
+cost: 10 * sr2015_new_kits
+
+description: >-
+  Bags for charging LiPo batteries in to contain fire.
+
+  http://www.modelsport.co.uk/hpi-plazma-pouch-lipo-safe-bag-18x22cm-/rc-car-products/39499
+
+# Whether the item/service can only be used once
+consumable: false
