@@ -1,0 +1,13 @@
+summary: Promotional items
+
+# Cost of the item
+cost: 100
+
+# Long description
+description: >-
+  Funds for promotion -- including posters/flyers/business cards.
+
+  Based on sr2012's spend of ~£100.
+
+# Whether the item/service can only be used once
+consumable: true
