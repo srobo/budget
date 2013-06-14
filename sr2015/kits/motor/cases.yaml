@@ -1,0 +1,11 @@
+summary: Cases for the USB motor boards
+
+cost: 14.00 * 2 * sr2015_new_kits
+
+description: >-
+  USB motor board cases.
+
+  Based on the estimate we made for the SR2014 boards.
+
+# Whether the item/service can only be used once
+consumable: false
