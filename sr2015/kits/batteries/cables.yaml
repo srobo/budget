@@ -1,0 +1,31 @@
+summary: Battery cables for SR2015
+
+cost: (86.80 + 51 + 1.74) * 1.2 + 8.54
+
+description: >-
+  Components for new battery cable assemblies and upgrade of existing
+  battery cables to XT60. (Of which there are 23 and 58 respectively.)
+
+  34 new cables require:
+
+   - wire:
+       0.5m * 34 = 17m of red and black.
+       Farnell 3653006 and 3653018
+       5m reels: £10.85 + VAT each
+       4 reels of each -> £86.80 + VAT
+
+   - big camcons
+       Farnell #1793033 -> £1.50 each + VAT
+       34 * 1.5 = £51 + VAT
+
+    - Male XT60 connectors:
+        These packs contain 5 male XT60 connectors:
+          http://www.hobbyking.com/hobbyking/store/__10414__Male_XT60_connectors_5pcs_bag_GENUINE.html
+        7 packs -> 35 connectors
+        at £1.22 each -> £8.54
+
+   - heat shrink
+       10mm per wire per assembly/old-battery = 0.68m
+       Farnell 1191006: 1.2m heatshrink = £1.74 + VAT
+
+consumable: false
