@@ -1,0 +1,10 @@
+summary: Batteries for kits for sr2015
+
+cost: 5.06 * 2 * sr2015_new_kits
+
+description: >-
+  2 of these LiPo batteries from Hobby King per kit:
+  http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=8932
+
+# Whether the item/service can only be used once
+consumable: false
