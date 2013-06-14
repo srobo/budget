@@ -60,7 +60,7 @@ vars:
   # The following all refer to SR2015
 
   # Number of teams in SR2015
-  sr2015_teams: floor(1.5 * sr2014_teams)
+  sr2015_teams: floor(1.0 * sr2014_teams)
 
   # Number of dev kits we'll own in SR2015
   sr2015_dev_kits: sr2014_dev_kits + 5
