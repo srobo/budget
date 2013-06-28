@@ -1,16 +1,23 @@
 summary: Battery chargers for sr2014 kits
 
-cost: 480 + 55
+cost: (8.05 + 6.38) * sr2014_new_kits + 1.91 * sr2014_total_kits
 
 description: >-
-  23 battery chargers for SR2014, including power cables.
+  23 new battery chargers for new SR2014 kits, and XT60 cable
+  assemblies for both the new chargers and the 58 chargers that we
+  already have.
 
-  23 of these:
-  http://www.aliexpress.com/product-fm/459979910-low-shipping-IMAX-B6-Digital-RC-Lipo-NiMh-Battery-Balance-Charger-AC-POWER-12v-5A-Adapter-wholesalers.html
-  shipped on the "UPS express saver" option.
+  New battery chargers:
+    - HobbyKing E4 battery charger: £8.05
+      http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=14633
+    - PSU: £6.38
+      http://www.hobbyking.com/hobbyking/store/__20968__Hobbyking_60w_Power_Supply.html
+      (Note that this is assuming the charger supports 15V in, which
+       it may not.  It'll do for a price estimate though.)
 
-  23 of these power cables:
-  http://uk.farnell.com/pro-elec/sh10106mr/power-lead-uk-plug-fig8-black-2m/dp/1522217
+  XT60 cables for all (both old and new) chargers:
+    http://www.hobbyking.com/hobbyking/store/__10266__Charge_Cable_w_Male_XT60_gt_4mm_Banana_plug.html
+    £1.91 each
 
 # Whether the item/service can only be used once
 consumable: false
