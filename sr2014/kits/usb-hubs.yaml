@@ -1,10 +1,17 @@
-summary: USB hubs for the new kits
+summary: USB hubs for SR2014 kit
 
-cost: 12.00 * sr2014_new_kits
+cost: 20.61 * sr2014_total_kits
 
 description: >-
-  The Akasa hubs cost us £10 last year and are still available from Misco.
-  Akasa part number: AK-HB-03BK; Misco part number: 153820
+  USB hubs for the SR2014 kits.
+
+  This is a pessimistic allocation.  I sincerely hope that we can find
+  a cheaper hub that is robust.  There are cheaper hubs out there.
+  For example, Xenta do a 10 port hub that's around £6.  Unfortunately
+  it gets terrible reviews.
+
+  This is based on buying a D-Link 7-port hub from ebuyer:
+  http://www.ebuyer.com/123772-d-link-dub-h7-usb2-0-7-port-hub-dub-h7-b
 
 # Whether the item/service can only be used once
 consumable: false
