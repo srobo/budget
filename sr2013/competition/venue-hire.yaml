@@ -1,9 +1,10 @@
 summary: Venue hire for the competition
 
-cost: 0
+cost: 850
 
 description: >-
-  The Cube costs 500 for the various parts of venue hire, plus 20% VAT.
+  SUSU venue hire: this is based on 4 days charged at £212.50 per day, and
+  includes all costs and VAT.
 
 # Whether the item/service can only be used once
 consumable: true
