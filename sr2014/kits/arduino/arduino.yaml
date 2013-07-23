@@ -1,6 +1,6 @@
 summary: Arduino-like boards for sr2014 kits
 
-cost: 24 * sr2014_total_kits
+cost: 30 * sr2014_total_kits
 
 description: >-
   The JointIO board is going to be replaced by something like an
