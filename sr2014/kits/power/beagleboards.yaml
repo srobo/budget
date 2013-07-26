@@ -1,10 +1,14 @@
 summary: BeagleBoards for power-board assemblies 
 
 # Cost of the item
-cost: 100 * sr2014_new_kits
+cost: 100
 
 description: >-
   BeagleBoards for inclusion in the batch of new SR2014 kits.
+
+  We received 22 BeagleBoards from ARM this year.  The target number
+  of additional BeagleBoards is 23, so we may need to get one more,
+  and this entry provides funds for that.
 
 # Whether the item/service can only be used once
 consumable: false
