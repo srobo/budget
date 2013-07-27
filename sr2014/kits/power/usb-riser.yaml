@@ -1,11 +1,11 @@
 summary: USB riser PCBs for SR2014 power boards
 
-cost: 4.52 * sr2014_new_kits
+cost: 4.52 * 1.2 * sr2014_new_kits
 
 description: >-
   PCBs and components for the SR2014 power board USB riser PCBs.
 
-  Last year these cost us £4.52 each in total.
+  Last year these cost us £4.52 each in total + vat.
 
 # Whether the item/service can only be used once
 consumable: false
