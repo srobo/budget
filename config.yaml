@@ -48,7 +48,7 @@ vars:
   sr2014_dev_kits: sr2013_dev_kits + 5
 
   # Total number of kits we'll own in SR2014
-  sr2014_total_kits: ceiling(sr2014_teams * 1.25) + sr2013_dev_kits
+  sr2014_total_kits: ceiling(sr2014_teams * 1.125) + sr2014_dev_kits
 
   # Number of kits to manufacture in SR2014
   sr2014_new_kits: sr2014_total_kits - sr2013_end_kits
