@@ -1,0 +1,10 @@
+summary: Screws, nuts and cable ties to assemble board cases
+
+cost: 70.00 + 22.00
+
+description: >-
+    Cases require nuts and bolts to hold them together. Based upon prices from
+    http://www.nylonalloys.co.uk/ for the nylon stuff and Farnell for the steel
+    nuts and cable ties.
+
+consumable: false
