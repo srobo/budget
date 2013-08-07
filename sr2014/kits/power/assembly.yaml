@@ -1,11 +1,10 @@
-summary: Assembly for the power boards
+summary: Assembly and PCBs for the power boards
 
-cost: 80.00 * sr2014_new_kits
+cost: 83.00 * (sr2014_new_kits - (sr2014_dev_kits - sr2013_dev_kits))
 
 description: >-
-  Based on a quote obtained from the PCB Train website. I expect it may cost
-  less than this if we get them assembled by Garner Osborne but this is the
-  worst-case.
+    Based upon a quote from Garner Osborne for 16 boards.
+    As this is the last year with this design we don't need more dev kits.
 
 # Whether the item/service can only be used once
 consumable: false

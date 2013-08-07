@@ -1,10 +1,10 @@
-summary: SR2014 Servo board PCBs, components and assembly
+summary: SR2014 Servo board PCBs and assembly
 
-cost: 1101.73
+cost: 44.00 * (sr2014_new_kits - (sr2014_dev_kits - sr2013_dev_kits))
 
 description: >-
-  PCBs, components and assembly of 23 servo boards by Garner Osborne.
-  In SR2013, we spent £1101.73 purchasing 23 servo boards.
+  PCBs and assembly of 16 servo boards by Garner Osborne.
+  Based upon a quote from Garner Osborne. As this is the last year with this design we don't need more dev kits.
 
 # Whether the item/service can only be used once
 consumable: false
