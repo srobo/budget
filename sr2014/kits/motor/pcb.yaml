@@ -1,6 +1,6 @@
 summary: PCBs for the USB motor boards
 
-cost: 4.00 * 2 * sr2014_total_kits
+cost: 4.35 * 2 * (sr2014_total_kits + 1)
 
 # Long description
 description: >-
@@ -12,6 +12,9 @@ description: >-
   See https://www.studentrobotics.org/trac/wiki/Kits/2011 for cost. Based on
   what we paid Garner Osborne for the v2 motor boards last year. I expect them
   to be significantly smaller so the cost should be less.
+
+  sr2014_total_kits is 79, we're getting 80 kits worth made for no other
+  reason than it's a nicer number.
 
 # Whether the item/service can only be used once
 consumable: false
