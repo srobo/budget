@@ -1,22 +1,22 @@
 summary: Battery cables for SR2014
 
-cost: (65.10 + 34.50 + 5.22) * 1.2 + 35.70
+cost: (86.80 + 60.06 + 5.22) * 1.2 + 35.70
 
 description: >-
 
   Components for new battery cable assemblies and upgrade of existing
-  battery cables to XT60. (Of which there are 23 and 58 respectively.)
+  battery cables to XT60. (Of which there are 39 and 40 respectively.)
 
-  23 new cables require:
+  39 new cables require:
    - wire:
-       0.5m * 23 = 11.5m of red and black.
+       0.5m * 39 = 19.5m of red and black.
        Farnell 3653006 and 3653018
        5m reels: £10.85 + VAT each
-       3 reels of each -> £65.10 + VAT
+       4 reels of each -> £86.80 + VAT
 
    - big camcons
-       Farnell #1793033 -> £1.50 each + VAT
-       23 * 1.5 = £34.50 + VAT
+       Farnell #1793033 -> £1.54 each + VAT
+       39 * 1.54 = £60.06 + VAT
 
   Parts required for new assemblies, and upgrade of old assemblies:
 
