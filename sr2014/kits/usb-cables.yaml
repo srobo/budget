@@ -1,9 +1,16 @@
-summary: USB-A to USB-B mini cables
+summary: Various USB cables
 
-cost: 1.02 * sr2014_new_kits
+cost: (0.80 + (1.14 * 2)) * sr2014_total_kits
 
 description: >-
-  Price for 10x Farnell 1651027.
+  Based on Farnell prices as of 2013-09-08 for:
+    * 80 of 1494732
+    * 160 of 2085464
+
+    ((USB B) + ((micro B) * (motor board per kit))) * (total kits)
+
+    USB B cables are for Ruggeduinos
+    micro B cables are for motor boards
 
 # Whether the item/service can only be used once
 consumable: false
