@@ -1,9 +1,16 @@
 summary: Wire for the SR2014 kits
 
-cost: 12.00 * sr2014_total_kits
+cost: 7.25 * sr2014_teams
 
 description: >-
-  Cost based on what was paid for wire in SR2011.
+  Cost based on Farnell prices as of 2013-09-08 for:
+  * 4 of 1465870
+  * 4 of 1465872
+  * 4 of 1465869
+  * 2 of 1285930
+  * 2 of 1285922
+  * 2 of 1285923
+  * 2 of 1285926
 
 # Whether the item/service can only be used once
 consumable: true
