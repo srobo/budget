@@ -1,0 +1,25 @@
+summary: Peripheral components for assembling power board assemblies.
+
+cost: 60.35
+
+description: >-
+  Covers cost of purchasing all components required to construct a power
+  board assembly out of its primary parts.
+
+  Fuses:
+    * 20 of 1566080
+    * 20 of 1586589
+
+  Switches:
+    * 16 of 4710368
+    * 20 of 1098453
+
+  Knobs:
+    * 32 of 1441143
+
+  BeagleBoard Mounting:
+    * 1 of 1377480
+    * 1 of 1419447
+    * 80 of 1651703
+
+consumable: false
