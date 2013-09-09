@@ -1,17 +1,15 @@
 summary: USB hubs for SR2014 kit
 
-cost: 20.61 * sr2014_total_kits
+cost: 8.92 * 1.2 * 200
 
 description: >-
-  USB hubs for the SR2014 kits.
+  USB hubs for the SR2014 and SR2015 kits.  Two hubs are required per
+  kit.
 
-  This is a pessimistic allocation.  I sincerely hope that we can find
-  a cheaper hub that is robust.  There are cheaper hubs out there.
-  For example, Xenta do a 10 port hub that's around £6.  Unfortunately
-  it gets terrible reviews.
+  Based on a quote from EntaTech for 200 of these USB hubs:
+  http://uk.startech.com/Cards-Adapters/USB-2/Hub/7-Port-USB-20-Hub-UK~ST7202USBGB
 
-  This is based on buying a D-Link 7-port hub from ebuyer:
-  http://www.ebuyer.com/123772-d-link-dub-h7-usb2-0-7-port-hub-dub-h7-b
+  That's £8.92 + VAT each.
 
 # Whether the item/service can only be used once
 consumable: false
