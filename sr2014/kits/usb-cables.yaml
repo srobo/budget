@@ -1,10 +1,10 @@
 summary: Various USB cables
 
-cost: (0.80 + (1.14 * 2)) * sr2014_total_kits
+cost: (1.44 + (1.14 * 2)) * sr2014_total_kits
 
 description: >-
   Based on Farnell prices as of 2013-09-08 for:
-    * 80 of 1494732
+    * 80 of  2088256
     * 160 of 2085464
 
     ((USB B) + ((micro B) * (motor board per kit))) * (total kits)
