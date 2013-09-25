@@ -1,0 +1,15 @@
+summary: Packing material for shipping to kickstarts
+
+cost: 6.74 * 3 * 2 + 4.89
+
+description: >-
+  Ratchet straps and stretch wrap for attaching kits to pallets.
+
+  3 ratchet straps per pallet: (£6.74 each, two pallets)
+    http://www.screwfix.com/p/ratchet-tie-down-straps-5m-x-25mm-2-piece-set/24567
+
+  A roll of stretch wrap for going around the whole thing:
+    http://www.cardboardboxes.co.uk/show_products.asp?cat1=Pallet+Wrap+Stretch+Wrap+Shrink+Wrap#
+
+# The majority of this item (the ratchet straps) are reusable
+consumable: false
