@@ -1,0 +1,12 @@
+summary: Pallets for shipping to Kickstarts
+
+cost: 15
+
+description: >-
+    Two pallets: one for Bristol, one for Norfolk
+
+    Based on a quote from Pallet Man (http://www.pallet-man.com)
+    Includes delivery and VAT.
+
+# Whether the item/service can only be used once
+consumable: true
