@@ -1,0 +1,19 @@
+summary: Bubble wrap for kit shipping
+
+cost: (53.09 + 14.99) * 1.2
+
+description: >-
+    Bubble wrap for packaging the kit when it ships.
+    Assumes it's being shipped to all teams due to current absence
+    of data otherwise.
+
+    Two sets:
+
+      1) 6 rolls of 50m x 500mm large bubble
+         http://www.stormtrading.co.uk/bubblewrap-500mm-large-bubble-651-p.asp
+
+      2) 2 rolls of 100m x 300mm small bubble
+         http://www.stormtrading.co.uk/bubble-wrap-300mm-small-bubble-191-p.asp
+
+consumable: true
+
