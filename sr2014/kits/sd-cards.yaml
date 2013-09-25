@@ -1,13 +1,24 @@
 summary: SD cards for BeagleBoards
 
 # Cost of the item
-cost: 5 * sr2014_total_kits
+cost: (5.2 + 0.79) * sr2014_total_kits + (5.99 * 1.2)
 
 # Long description
 description: >-
   To deploy more exciting software situations on the BeagleBoards,
-  they will need to be shipped with SD cards in them.  This is enough
-  for an 8GB SD card for each kit.
+  they will need to be shipped with SD cards in them.
+
+  This is enough for a 8GB Class 10 MicroSD card from eBuyer (based on
+  a quote from them) and MicroSD-to-SD adapter from 7dayshop.
+
+  SD Card:
+  http://www.ebuyer.com/263614-kingston-8gb-class-10-microsdhc-card-sdc10-8gbsp
+  £5.20 inc VAT
+
+  Adapter:
+  http://www.7dayshop.com/7dayshop-microsd-microsdhc-to-full-size-sd-sdhc-card-adapter
+  £0.79 inc VAT
+  £5.99 for express DPD courier from 7dayshop
 
 # Whether the item/service can only be used once
 consumable: false
