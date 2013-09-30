@@ -1,0 +1,10 @@
+summary: University computing guest accounts for Southampton KickStart 2014
+
+cost: 25 + 1*40
+
+description: >-
+    40 conference accounts (for one per team plus spares) for use by competitors
+    at the Southampton KickStart event, to facilitiate their using the IDE.
+
+# Whether the item/service can only be used once
+consumable: true
