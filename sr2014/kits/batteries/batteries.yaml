@@ -1,6 +1,6 @@
 summary: Batteries for kits for sr2014
 
-cost: 5.06 * 2 * 1.2 * 1.027 * sr2014_total_kits
+cost: 1283.11
 
 description: >-
   2 of these LiPo batteries from Hobby King per kit:
@@ -9,12 +9,11 @@ description: >-
   We're replacing all of our batteries, since the old ones weren't
   that great.
 
-  Includes VAT and import duty.  My best guess right now of import
-  duty is 2.7%.  This is assuming the batteries fall under the
-  commodity code 8548909099.
-
-  (HobbyKing Price) * (Num Batteries) * (VAT) * (Import Duty) * (Num Kits)
-
+  Price is based on the order that's currently in progress at the time
+  of writing (£997.75 for the items), combined with actual shipping
+  fees (turned out at £350.08 for these, but this price is spread out
+  over several budget lines), then 20% VAT and the predicted 2.7%
+  customs duty.
 
 # Whether the item/service can only be used once
 consumable: false

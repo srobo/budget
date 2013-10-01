@@ -1,6 +1,6 @@
 summary: Battery chargers for sr2014 kits
 
-cost: (8.05 + 6.38) * sr2014_new_kits + 1.91 * sr2014_total_kits
+cost: (13.18 + 6.38) * sr2014_new_kits + 3.12 * sr2014_total_kits
 
 description: >-
   23 new battery chargers for new SR2014 kits, and XT60 cable
@@ -8,8 +8,9 @@ description: >-
   already have.
 
   New battery chargers:
-    - HobbyKing E4 battery charger: £8.05
+    - HobbyKing E4 battery charger: £10.25 * 1.286 = £13.18
       http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=14633
+      1.286 factor adds shipping and estimated duty.
     - PSU: £6.38
       http://www.hobbyking.com/hobbyking/store/__20968__Hobbyking_60w_Power_Supply.html
       (Note that this is assuming the charger supports 15V in, which
@@ -17,7 +18,8 @@ description: >-
 
   XT60 cables for all (both old and new) chargers:
     http://www.hobbyking.com/hobbyking/store/__10266__Charge_Cable_w_Male_XT60_gt_4mm_Banana_plug.html
-    £1.91 each
+    £2.43 * 1.286 = £3.12 each
+    (1.286 factor adds shipping and estimated duty) 
 
 # Whether the item/service can only be used once
 consumable: false
