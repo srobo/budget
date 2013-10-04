@@ -1,0 +1,12 @@
+summary: Next-day pallet shipping to kickstarts 
+
+cost: 74.17 * 2
+
+description: >-
+  Shipping of two pallets: one for Bristol, one for Norfolk
+
+  Shipping with despatchbay.  Includes VAT.
+  Based on a quote from the despatchbay website.
+
+# Whether the item/service can only be used once
+consumable: true
