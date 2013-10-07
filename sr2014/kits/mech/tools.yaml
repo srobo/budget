@@ -1,0 +1,11 @@
+summary: Tools to be includes in the kits
+
+# Cost of the item
+cost: 1.13 * sr2014_teams
+
+# Long description
+description: >-
+  1x 2.5mm slotted screwdriver (Farnell: 2103271) per team
+
+# Whether the item/service can only be used once
+consumable: false
