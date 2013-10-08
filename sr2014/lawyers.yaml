@@ -1,10 +1,11 @@
 summary: Legal advice on the team leader agreement
 
-cost: 750
+cost: 900
 
 description: >-
     Maximum expenditure permitted while lawyers examine the team leader
-    agreement to see if it's legally airtight.
+    agreement to see if it's legally airtight. Also, for drafting of a
+    disclaimer
 
 # Whether the item/service can only be used once
 consumable: true
