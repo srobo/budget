@@ -1,13 +1,13 @@
 summary: Components for the power boards
 
-cost: 45.60 * (sr2014_new_kits - (sr2014_dev_kits - sr2013_dev_kits))
+cost: 45.60 * (sr2014_new_kits - (sr2014_dev_kits - sr2013_dev_kits)) + 4.21
 
 description: >-
   Based on https://www.studentrobotics.org/trac/wiki/Kits/2011. Note that the
   price on that page includes the BeagleBoard and LCD. I've assumed they're
   £88 and £20 respectively for the purpose of this budget line.
 
-  
+  Overspend on this line was just £4.21.
 
 
 # Whether the item/service can only be used once
