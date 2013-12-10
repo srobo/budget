@@ -1,6 +1,6 @@
 summary: USB hubs for SR2014 kit
 
-cost: 8.92 * 1.2 * 200
+cost: 8.92 * 1.2 * 200 + 7.20
 
 description: >-
   USB hubs for the SR2014 and SR2015 kits.  Two hubs are required per
@@ -9,7 +9,7 @@ description: >-
   Based on a quote from EntaTech for 200 of these USB hubs:
   http://uk.startech.com/Cards-Adapters/USB-2/Hub/7-Port-USB-20-Hub-UK~ST7202USBGB
 
-  That's £8.92 + VAT each.
+  That's £8.92 + VAT each. Plus £7.20 delivery.
 
 # Whether the item/service can only be used once
 consumable: false
