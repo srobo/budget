@@ -1,6 +1,6 @@
 summary: Components for the USB motor boards
 
-cost: (25.00 * 2 * sr2014_total_kits) + 419
+cost: (25.00 * 2 * sr2014_total_kits) + 419 + 133.85
 
 description: >-
   USB motor board assembly.
@@ -13,6 +13,7 @@ description: >-
   expensive. See https://www.studentrobotics.org/trac/wiki/Kits/2011.
 
   The extra £419 is due to us having to order more H-bridge ICs that we required.
+  And a final £133.85 due to miscellaneous overspends.
 
 # Whether the item/service can only be used once
 consumable: false
