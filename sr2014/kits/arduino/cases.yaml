@@ -1,6 +1,6 @@
 summary: Case for Arduino-like board
 
-cost: 14.00 * sr2014_total_kits
+cost: 481.26
 
 description: >-
   We may want to ship a case for the Arduino-like thing.
@@ -10,3 +10,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true

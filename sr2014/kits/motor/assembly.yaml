@@ -1,6 +1,6 @@
 summary: Assembly of the USB motor boards
 
-cost: 15.90 * 2 * (sr2014_total_kits + 1)
+cost: 2542.80
 
 description: >-
   USB motor board assembly.
@@ -20,3 +20,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true

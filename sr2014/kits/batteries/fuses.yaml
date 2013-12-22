@@ -1,6 +1,6 @@
 summary: Fuses and holders for LiPo batteries
 
-cost: (2.34 + 1) * 2 * sr2014_new_kits
+cost: 0
 
 description: >-
   Inline Maxi blade fuse holder and Maxi blade fuse for each battery.
@@ -13,3 +13,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true

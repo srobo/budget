@@ -1,7 +1,7 @@
 summary: Bits of mech kit
 
 # Cost of the item
-cost: 20.74 * sr2014_teams
+cost: 985.63
 
 # Long description
 description: >-
@@ -11,3 +11,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: true
+
+closed: true

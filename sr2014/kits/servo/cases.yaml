@@ -1,6 +1,6 @@
 summary: Cases for SR2014 servo boards
 
-cost: 8 * sr2014_new_kits
+cost: 155.40
 
 description: >-
   Cases for the SR2014 servo boards.
@@ -8,3 +8,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true

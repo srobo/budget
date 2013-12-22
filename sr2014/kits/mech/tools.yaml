@@ -1,7 +1,7 @@
 summary: Tools to be includes in the kits
 
 # Cost of the item
-cost: 1.13 * sr2014_teams
+cost: 60.92
 
 # Long description
 description: >-
@@ -9,3 +9,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true

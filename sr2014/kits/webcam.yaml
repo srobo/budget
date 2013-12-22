@@ -1,6 +1,6 @@
 summary: Webcams for the new kits
 
-cost: 19.08 * sr2014_new_kits
+cost: 400.68
 
 description: >-
   Logitech C270 webcams for the new kits.
@@ -10,3 +10,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true

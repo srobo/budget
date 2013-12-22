@@ -1,6 +1,6 @@
 summary: Velcro for batteries, both parts
 
-cost: 92.14
+cost: 85.70
 
 description: >-
   Velcro to be attached to batteries, to ensure they can be safely stuck to a
@@ -11,3 +11,5 @@ description: >-
     * 1 of 1454588
 
 consumable: false
+
+closed: true

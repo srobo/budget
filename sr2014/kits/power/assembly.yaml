@@ -1,6 +1,6 @@
 summary: Assembly and PCBs for the power boards
 
-cost: 83.00 * (sr2014_new_kits - (sr2014_dev_kits - sr2013_dev_kits))
+cost: 1320.00
 
 description: >-
     Based upon a quote from Garner Osborne for 16 boards.
@@ -8,3 +8,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true

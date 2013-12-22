@@ -1,6 +1,6 @@
 summary: USB hubs for SR2014 kit
 
-cost: 8.92 * 1.2 * 200 + 7.20
+cost: 2148.00
 
 description: >-
   USB hubs for the SR2014 and SR2015 kits.  Two hubs are required per
@@ -13,3 +13,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true

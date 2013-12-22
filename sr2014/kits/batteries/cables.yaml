@@ -43,3 +43,5 @@ description: >-
        (1.286 factor adds shipping and estimated duty)
 
 consumable: false
+
+closed: true

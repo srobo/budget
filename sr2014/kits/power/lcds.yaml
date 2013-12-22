@@ -1,6 +1,6 @@
 summary: LCD displays for the power boards
 
-cost: 20 * sr2014_new_kits
+cost: 230.00
 
 description: >-
   LCDs for the power boards.
@@ -8,3 +8,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true

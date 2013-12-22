@@ -1,7 +1,7 @@
 summary: Boxes for teams to store and carry kit in
 
 # Cost of the item
-cost: (10.75 * ceiling(sr2014_new_kits * 1.1)) + (2 * 2.16) + 32.99
+cost: 295.31
 
 description: >-
   Boxes for teams to store and carry kit away from kickstart in.
@@ -16,3 +16,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true

@@ -1,6 +1,6 @@
 summary: CamCon connectors for use by competitors.
 
-cost: ((0.45 * 5) * sr2014_total_kits) + ((0.58 * 10) * sr2014_teams)
+cost: 430.33
 
 description: >-
   Cost based upon Farnell prices as of 2013-09-08 for:
@@ -11,3 +11,5 @@ description: >-
   ((5mm camcon) * (per kit) * (total kits)) + ((7.5mm camcon) * (per kit) * (new kits))
 
 consumable: true
+
+closed: true

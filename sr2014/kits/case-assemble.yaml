@@ -1,6 +1,6 @@
 summary: Screws, nuts and cable ties to assemble board cases
 
-cost: 70.00 + 22.00
+cost: 88.51
 
 description: >-
     Cases require nuts and bolts to hold them together. Based upon prices from
@@ -8,3 +8,5 @@ description: >-
     nuts and cable ties.
 
 consumable: false
+
+closed: true

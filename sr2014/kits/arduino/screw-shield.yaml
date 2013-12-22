@@ -1,6 +1,6 @@
 summary: Screw-terminal arduino shield for sr2014 kits
 
-cost: (5.64 * sr2014_total_kits) + 52.00 + 33.41
+cost: 530.97
 
 description: >-
   Screw terminal arduino shields for the arduinos in the sr2014 kits.
@@ -13,3 +13,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true

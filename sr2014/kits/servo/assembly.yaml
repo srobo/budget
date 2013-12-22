@@ -1,6 +1,6 @@
 summary: SR2014 Servo board PCBs and assembly
 
-cost: 44.00 * (sr2014_new_kits - (sr2014_dev_kits - sr2013_dev_kits))
+cost: 704.00
 
 description: >-
   PCBs and assembly of 16 servo boards by Garner Osborne.
@@ -8,3 +8,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true

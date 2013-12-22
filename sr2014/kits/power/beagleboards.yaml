@@ -1,7 +1,7 @@
 summary: BeagleBoards for power-board assemblies 
 
 # Cost of the item
-cost: 100
+cost: 0
 
 description: >-
   BeagleBoards for inclusion in the batch of new SR2014 kits.
@@ -12,3 +12,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true

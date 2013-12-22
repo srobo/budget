@@ -1,6 +1,6 @@
 summary: SR2014 Servo board components
 
-cost: 20.00 * (sr2014_new_kits - (sr2014_dev_kits - sr2013_dev_kits))
+cost: 320.00
 
 description: >-
   Components for 16 servo boards. Based upon a quote from Farnell and prices on the Digikey website.
@@ -8,3 +8,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true
