@@ -1,7 +1,7 @@
 summary: Money for unexpected shipping
 
 # Cost of the item
-cost: 300.00
+cost: 227.85
 
 # Long description
 description: >-
@@ -16,3 +16,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: true
+
+closed: true
