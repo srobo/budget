@@ -1,11 +1,14 @@
 summary: Battery cables for SR2014
 
-cost: (86.80 + 60.06 + 5.22) * 1.2 + 35.70
+cost: 418.54
 
 description: >-
 
   Components for new battery cable assemblies and upgrade of existing
   battery cables to XT60. (Of which there are 39 and 40 respectively.)
+
+  Additionally, the cost of 79 new battery charging cables (XT60 <-> banana)
+  to upgrade all our old ones from deans to XT60.
 
   39 new cables require:
    - wire:
@@ -33,5 +36,10 @@ description: >-
        10mm per wire per assembly/old-battery = 2.78m
        Farnell 1191006: 1.2m heatshrink = £1.74 + VAT
        Three lengths: £5.22 + VAT
+
+   - XT60 cables for all charger cables:
+       http://www.hobbyking.com/hobbyking/store/__10266__Charge_Cable_w_Male_XT60_gt_4mm_Banana_plug.html
+       £2.43 * 1.286 = £3.12 each
+       (1.286 factor adds shipping and estimated duty)
 
 consumable: false
