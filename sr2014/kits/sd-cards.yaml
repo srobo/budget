@@ -1,7 +1,7 @@
 summary: SD cards for BeagleBoards
 
 # Cost of the item
-cost: (5.2 + 0.79) * sr2014_total_kits + (5.99 * 1.2)
+cost: 485.38
 
 # Long description
 description: >-
@@ -11,9 +11,8 @@ description: >-
   This is enough for a 8GB Class 10 MicroSD card from eBuyer (based on
   a quote from them) and MicroSD-to-SD adapter from 7dayshop.
 
-  SD Card:
-  http://www.ebuyer.com/263614-kingston-8gb-class-10-microsdhc-card-sdc10-8gbsp
-  £5.20 inc VAT
+  The exact SD card varied due to stock shortages, but were all from ebuyer.
+  See trac ticket 1960 for detail, average price was £5.42.
 
   Adapter:
   http://www.7dayshop.com/7dayshop-microsd-microsdhc-to-full-size-sd-sdhc-card-adapter
