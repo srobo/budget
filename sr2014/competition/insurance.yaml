@@ -1,0 +1,10 @@
+summary: Insurance against injury at the competition
+
+cost: 210.50
+
+description: >-
+  Public liability insurance covering up to £2m in damages, at the competition
+  only, as quoted by 'David J Miller Insurance Brokers Ltd' in ticket 2198.
+  
+# Whether the item/service can only be used once
+consumable: true
