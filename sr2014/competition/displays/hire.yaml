@@ -1,0 +1,20 @@
+summary: Displays for arena and venue
+
+cost: (30 * 8 + 115 * 3) * 1.2
+
+description: >-
+  Hire of displays for arena and venue from IT Rentals.
+
+  Two sets of displays:
+    - 8 x 24" TFTs, HDMI input, with truss mounts
+      £30 each.
+
+    - 3 x 46" LCDs, HDMI input, on unicol stands
+      £115 each.
+
+  All displays will arrive with HDMI cables.
+
+  Delivery and insurance is included in sr2014/competition/network
+  line.
+
+consumable: true

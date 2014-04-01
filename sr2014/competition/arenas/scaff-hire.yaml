@@ -1,0 +1,12 @@
+summary: Scaffolding hire
+
+cost: (76.44 + 300) * 1.2
+
+description: >-
+  Scaff hire and delivery for two arenas.
+
+  Based on quote from Harsco.  Delivery to Newbury.
+  £76.44 for the scaff, and £300 for delivery + collection.
+
+# Whether the item/service can only be used once
+consumable: true

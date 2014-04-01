@@ -1,0 +1,26 @@
+summary: Wood for the arenas
+
+# Cost of the item
+cost: 35 * 4
+
+# Long description
+description: >-
+  Wood for the arenas.
+
+  We've got enough pine for two arenas.
+
+  We need more faced hardboard.
+  One arena needs 64m (that's 32m inside and outside). So we need to
+  have 128m total.  Add 10% for spare parts, and we need 140.8m
+  total.
+
+  We currently have 57m worth.  So we need to buy 83m worth.  So we
+  need to purchase 83/2.4 = 34.6 sheets -> 35 sheets.
+
+  I have requested a quote from Travis Perkins.
+
+  TODO: Travis Perkins only do 2.4x1.2 -- we need 2.4x0.6.
+  See if they'll cut it in half for us.
+
+# Whether the item/service can only be used once
+consumable: false

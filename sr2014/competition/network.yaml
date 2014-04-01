@@ -1,0 +1,18 @@
+summary: Networking equipment
+
+cost: (10 * 8 + 200) * 1.2 + 99.75
+
+description: >-
+  Hire of access points from ITR (http://itrentals.com/)
+
+  8 access points.
+
+  This is in the same order as the display hire in
+  sr2014/competition/displays/hire.
+  Delivery is £200 + VAT.
+  Insurnace is £99.75 inc VAT.
+
+  Delivery to venue on Friday morning, and collection
+  on the Monday morning.
+
+consumable: true

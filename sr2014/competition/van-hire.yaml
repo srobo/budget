@@ -1,0 +1,12 @@
+summary: Van hire
+
+cost: 315.00
+
+description: >-
+  Hire of an "extra large van" for 6 days from Northgate.  For
+  transporting stuff from Southampton to Newbury, and back.
+
+  From Wednesday 23th to Monday 28th April inclusive.
+
+# Whether the item/service can only be used once
+consumable: true

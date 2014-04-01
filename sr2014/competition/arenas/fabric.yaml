@@ -1,0 +1,14 @@
+summary: Fabric for the arenas
+
+# Cost of the item
+cost: 100
+
+# Long description
+description: >-
+  Fabric for covering the arenas.
+
+  This is a guess.  There is no historical record of how much we
+  previously spent on fabric.
+
+# Whether the item/service can only be used once
+consumable: false

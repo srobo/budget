@@ -1,0 +1,50 @@
+summary: Floor protection
+
+cost: (75.20 * 10 + 7.45 * 33 + 1.85 * 13)* 1.2
+
+description: >-
+  Floor protection for the second floor of the Newbury Racecourse
+  grandstand.
+
+  Protecta Shield Standard:
+    http://www.protectascreen.com/Catalogue/Floor-Protection/Hard-Floor-Protection/Protecta-Shield-Standard-182m-x-55m-x-125-micron-104-018
+
+    13.4 x 58.6m area to be covered (not helpdesk area)
+    Comes in 1.82 x 55m rolls.
+
+    Assuming 100mm overlap between strips, this means 7.79 strips are
+    required along the length of the room.  Rounds up to 8.
+
+    Since it comes in 55m rolls, this will leave a 3.6m x 13.4m gap at
+    the end of the room.  This can be covered by 2 strip-widths, and
+    will only require one more roll.
+
+    So 9 rolls total are required.  Add one spare.
+    Rolls are £75.20 + VAT each.
+    Delivery is free.
+
+  Also requires two types of tape:
+
+    - Double sided tape for adhering to carpet
+      Assuming 3 strips of this along the length of each strip of all
+      the plastic that we buy, we need 1650m of this stuff!
+      That's 33 x 50m rolls.  (Includes spare because of spare strip)
+
+      Not 100% on what this will be yet, but potentially this:
+      http://www.tapes-direct.co.uk/index.php?main_page=product_info&cPath=134&products_id=765
+      £7.45 per roll.
+
+    - Joining tape to secure edges down
+      Since each strip will overlap the top of its neighbour, only one
+      piece of joining tape is required per protection strip.  Of
+      course, there'll be one strip at the edge that requires 2 pieces
+      of joining tape.
+      So that's 11 * 55 = 605m of this stuff.
+      Or 13 x 50m rolls.
+
+      http://www.protectascreen.com/Catalogue/Adhesive-Tapes/Joining/Joining-Tape
+      £1.85 + VAT per roll
+
+
+# Whether the item/service can only be used once
+consumable: true

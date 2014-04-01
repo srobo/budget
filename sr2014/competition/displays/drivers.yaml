@@ -1,0 +1,19 @@
+summary: Devices to drive displays
+
+cost: (23.90 * 1.2 + 2.29 + 2.99) * 11
+
+description: >-
+  Raspberry Pis and accessories for driving hired displays.
+
+  Raspberry pi from Farnell £23.90 + VAT
+    https://xgoat.com/p/farnell/2191863
+
+  USB mains adapter for the Pi £2.29 inc VAT
+    http://www.ebay.co.uk/itm/350917850391
+
+  4GB SD cards for those Pis £2.99 inc VAT
+    http://www.ebuyer.com/125885-kingston-4gb-secure-digital-high-capacity-card-sd4-4gb
+
+  (HDMI cables are included in hire.)
+
+consumable: false

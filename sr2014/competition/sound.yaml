@@ -1,0 +1,13 @@
+summary: Sound equipment for the competition
+
+# Cost of the item
+cost: 1000
+
+# Long description
+description: >-
+  Speaker hire etc for the competition
+
+  This is a complete guess at the moment.  We have no numbers yet.
+
+# Whether the item/service can only be used once
+consumable: false

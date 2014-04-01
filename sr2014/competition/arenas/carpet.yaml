@@ -1,0 +1,31 @@
+summary: Carpet for the arenas
+
+cost: 355.13 + (7.45 * 16 + 4.95)
+
+description: >-
+  Carpet for the SR2014 arenas.
+
+  Rolls of this in blue:
+    http://www.ebay.co.uk/itm/190594523558
+
+    - 2 of 18x4m rolls
+    - 1 of 9x4m rolls
+
+  The 9x4m roll will have to be cut longways in 2.
+  Carpet is £355.13 all in.
+
+  Tape:
+    Low tack: http://www.tapes-direct.co.uk/index.php?main_page=product_info&cPath=134&products_id=766
+    Medium tack: http://www.tapes-direct.co.uk/index.php?main_page=product_info&cPath=134&products_id=765
+
+    If we place a strip of that every 500mm across the arena, then
+    that'd be 171m (for a 9x9m carpet), or 4 x 50m rolls per arena.
+
+    So 8 rolls total.
+
+    Since we don't know whether we want low or medium tack without
+    being at the venue, we should get both.
+
+    £4.95 delivery for tape.
+
+consumable: true
