@@ -1,0 +1,14 @@
+summary: T-shirts
+
+# Cost of the item
+cost: (13 * 6) + 10
+
+# Long description
+description: >-
+  This is based on last year's prices in sr2013/clothing. This covers 13 shirts.
+
+  We need these by the competition.
+
+# Whether the item/service can only be used once
+consumable: false
+
