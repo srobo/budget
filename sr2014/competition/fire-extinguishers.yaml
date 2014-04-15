@@ -1,0 +1,12 @@
+summary: Fire extinguishers for use at the competition
+
+# Cost of the item
+cost: 29.66
+
+# Long description
+description: >-
+  Two fire extinguishers are required per arena that are suitable for electrical
+  fires. 1kg powder fire extinguishers are suitable for this.
+
+# Whether the item/service can only be used once
+consumable: false
