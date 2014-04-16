@@ -1,7 +1,7 @@
 summary: Wood for the arenas
 
 # Cost of the item
-cost: 35 * 4
+cost: 5.28 * 70
 
 # Long description
 description: >-
@@ -17,10 +17,9 @@ description: >-
   We currently have 57m worth.  So we need to buy 83m worth.  So we
   need to purchase 83/2.4 = 34.6 sheets -> 35 sheets.
 
-  I have requested a quote from Travis Perkins.
-
-  TODO: Travis Perkins only do 2.4x1.2 -- we need 2.4x0.6.
-  See if they'll cut it in half for us.
+  Wickes sells 1.2m x 0.6m sheets, which are half that size, so we
+  actually need 70 of them.  Also, these will fit in Rob's car, so he
+  can collect them from Wickes easily.
 
 # Whether the item/service can only be used once
 consumable: false
