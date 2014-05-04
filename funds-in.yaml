@@ -13,7 +13,7 @@ incoming:
   - desc: Motorola Foundation sponsorship for SR2013-14
     amount: 28437.60
 
-    # A temporary loan from Jeremy Morse and Rob Spanton
-    # The loan was £8811.  This divided by 1.1 is £8010
-  - desc: Loan from Jeremy Morse and Rob Spanton
-    amount: 8010.00
+    # We received £29532.82 from the Motorola Solutions Foundation
+    # in April 2014.  This divided by 1.1 is £26848.01
+  - desc: Motorola Solutions Foundation in April 2014.
+    amount: 26848.01
