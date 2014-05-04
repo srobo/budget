@@ -10,4 +10,4 @@ description: >-
   Based on invoice from Bennellick Engineering Ltd.
 
 # Whether the item/service can only be used once
-consumable: false
+consumable: true
