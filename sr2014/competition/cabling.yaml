@@ -1,18 +1,11 @@
 summary: Power and audio equipment for the competition
 
-cost: 675
+cost: 700
 
 description: >-
   Cabling hire for the competition.
 
-  Cabling hire for SR2012 (the year before last) was ~£300.  This
-  event is 2.25 times larger (54 versus 24 teams) than SR2012.
-  Assuming a linear scaling with number of teams, this leads to £675.
-
-  This includes power, audio cabling, a radio mic, and a mixing desk.
-
-  Messrs Bennellick and Welton have pledged their expertise and time
-  to perform the installation of this.
+  Based on invoice from Bennellick Engineering Ltd.
 
 # Whether the item/service can only be used once
 consumable: true

@@ -1,0 +1,10 @@
+summary: Production company logistics
+
+cost: 1150 * 1.2
+
+description: >-
+  Transport and misc consumables from production company (Bennellick
+  Engineering Ltd.).  Based on their invoice.
+
+# Whether the item/service can only be used once
+consumable: true
