@@ -1,0 +1,16 @@
+summary: Parts for battery profiling
+
+cost: 200
+
+description: >-
+  Funds for the develop
+
+  Giorgos is doing an SR internship for 6 weeks in summer 2014.  This
+  internship will involve the profiling of the batteries that we use
+  in our kit.  This line is for the parts/equipment required for this
+  task.
+
+  This amount seems reasonable to assign to this short project.
+
+# Whether the item/service can only be used once
+consumable: true
