@@ -1,9 +1,11 @@
 summary: Venue hire for the competition
 
-cost: 15180
+cost: 15684.00
 
 description: >-
   Cost of the hire of Newbury Racecourse Grandstand for 3 days.
 
 # Whether the item/service can only be used once
 consumable: true
+
+closed: true

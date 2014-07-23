@@ -1,7 +1,7 @@
 summary: Table hire
 
 # Cost of the item
-cost: 80
+cost: 78.00
 
 # Long description
 description: >-
@@ -16,3 +16,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true

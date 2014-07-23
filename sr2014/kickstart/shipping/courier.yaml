@@ -1,6 +1,6 @@
 summary: Next-day pallet shipping to kickstarts 
 
-cost: 74.17 * 2
+cost: 0
 
 description: >-
   Shipping of two pallets: one for Bristol, one for Norfolk
@@ -10,3 +10,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: true
+
+closed: true

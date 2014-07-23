@@ -1,6 +1,6 @@
 summary: Scaffolding hire
 
-cost: (76.44 + 300) * 1.2
+cost: 451.73
 
 description: >-
   Scaff hire and delivery for two arenas.
@@ -10,3 +10,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: true
+
+closed: true

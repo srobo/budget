@@ -1,6 +1,6 @@
 summary: Van hire
 
-cost: 387
+cost: 387.00
 
 description: >-
   Hire of an "extra large van" for 6 days from Northgate.  For
@@ -10,3 +10,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: true
+
+closed: true

@@ -1,6 +1,6 @@
 summary: First aiders for the competition from St John Ambulance
 
-cost: 528
+cost: 0
 
 description: >-
     Two first aiders for both days of the competition from St Jon Ambulance.
@@ -8,3 +8,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: true
+
+closed: true

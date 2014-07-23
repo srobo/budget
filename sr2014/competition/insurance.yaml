@@ -1,6 +1,6 @@
 summary: Insurance against injury at the competition
 
-cost: 210.50
+cost: 0
 
 description: >-
   Public liability insurance covering up to £2m in damages, at the competition
@@ -8,3 +8,5 @@ description: >-
   
 # Whether the item/service can only be used once
 consumable: true
+
+closed: true

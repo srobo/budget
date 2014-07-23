@@ -1,6 +1,6 @@
 summary: Production company logistics
 
-cost: 1150 * 1.2
+cost: 1380.00
 
 description: >-
   Transport and misc consumables from production company (Bennellick
@@ -8,3 +8,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: true
+
+closed: true

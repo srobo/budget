@@ -1,6 +1,6 @@
 summary: Kit shipping to overseas teams in Grenoble and Munich
 
-cost: 96.39 + 162.26
+cost: 258.65
 
 description: >-
   Shipping of three kits plus KickStart mini-game bits to Munich and Grenoble.
@@ -11,3 +11,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: true
+
+closed: true

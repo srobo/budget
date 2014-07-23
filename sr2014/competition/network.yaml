@@ -1,6 +1,6 @@
 summary: Networking equipment
 
-cost: (10 * 8 + 200) * 1.2 + 99.75
+cost: 435.75
 
 description: >-
   Hire of access points from ITR (http://itrentals.com/)
@@ -16,3 +16,5 @@ description: >-
   on the Monday morning.
 
 consumable: true
+
+closed: true

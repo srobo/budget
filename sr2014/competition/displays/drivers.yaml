@@ -1,6 +1,6 @@
 summary: Devices to drive displays
 
-cost: (23.90 * 1.2 + 2.29 + 2.99) * 11
+cost: 372.75
 
 description: >-
   Raspberry Pis and accessories for driving hired displays.
@@ -17,3 +17,5 @@ description: >-
   (HDMI cables are included in hire.)
 
 consumable: false
+
+closed: true

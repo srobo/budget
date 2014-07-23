@@ -1,9 +1,11 @@
 summary: Bits and pieces for kickstart 2012
 
-cost: 100
+cost: 74.84
 
 description: >-
     Candles, card, rulers, mince-pies, etc. for mini-game
 
 # Whether the item/service can only be used once
 consumable: true
+
+closed: true

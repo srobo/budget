@@ -1,6 +1,6 @@
 summary: Refreshments for Southampton KickStart 2014
 
-cost: 150*1 + 25
+cost: 20.00
 
 description: >-
     Refreshments for 150 ordered from UoS catering @ ₤1 per person,
@@ -8,3 +8,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: true
+
+closed: true

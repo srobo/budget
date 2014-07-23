@@ -1,6 +1,6 @@
 summary: Parts for SR2014 game tokens
 
-cost: 100
+cost: 47.95
 
 description: >-
   It seems likely that sr2014's game will involve some kind of token.
@@ -9,3 +9,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: true
+
+closed: true

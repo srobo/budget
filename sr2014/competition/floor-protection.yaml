@@ -1,6 +1,6 @@
 summary: Floor protection
 
-cost: (75.20 * 10 + 7.45 * 33 + 1.85 * 13)* 1.2
+cost: 1108.66
 
 description: >-
   Floor protection for the second floor of the Newbury Racecourse
@@ -48,3 +48,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: true
+
+closed: true

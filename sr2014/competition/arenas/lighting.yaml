@@ -1,6 +1,6 @@
 summary: Hire and fitting of arena lighting
 
-cost: (1600 + 1200) * 1.2
+cost: 3360.00
 
 description: >-
   Overhead lighting and rigging for our arenas.
@@ -8,3 +8,5 @@ description: >-
   Lighting hire was £1.6k and rigging hire was £1.2k, both plus VAT.
 
 consumable: true
+
+closed: true

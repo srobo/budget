@@ -1,6 +1,6 @@
 summary: Wristbands for entry to the competition
 
-cost: 396.0
+cost: 357.60
 
 description: >-
   Cost of 800 fabric wrist-bands.
@@ -10,3 +10,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: true
+
+closed: true

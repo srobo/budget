@@ -1,7 +1,7 @@
 summary: Sound equipment for the competition
 
 # Cost of the item
-cost: 1500 * 1.2
+cost: 1800.00
 
 # Long description
 description: >-
@@ -11,3 +11,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: true
+
+closed: true

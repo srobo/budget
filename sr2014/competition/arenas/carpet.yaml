@@ -1,6 +1,6 @@
 summary: Carpet for the arenas
 
-cost: 355.13 + (7.45 * 16 + 4.95)
+cost: 441.40
 
 description: >-
   Carpet for the SR2014 arenas.
@@ -29,3 +29,5 @@ description: >-
     £4.95 delivery for tape.
 
 consumable: true
+
+closed: true

@@ -1,6 +1,6 @@
 summary: Displays for arena and venue
 
-cost: (30 * 8 + 115 * 3) * 1.2
+cost: 702.00
 
 description: >-
   Hire of displays for arena and venue from IT Rentals.
@@ -18,3 +18,5 @@ description: >-
   line.
 
 consumable: true
+
+closed: true

@@ -1,7 +1,7 @@
 summary: Fabric for the arenas
 
 # Cost of the item
-cost: 100
+cost: 37.50
 
 # Long description
 description: >-
@@ -12,3 +12,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: false
+
+closed: true

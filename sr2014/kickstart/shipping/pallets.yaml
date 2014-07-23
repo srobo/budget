@@ -1,6 +1,6 @@
 summary: Pallets for shipping to Kickstarts
 
-cost: 15
+cost: 15.00
 
 description: >-
     Two pallets: one for Bristol, one for Norfolk
@@ -10,3 +10,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: true
+
+closed: true

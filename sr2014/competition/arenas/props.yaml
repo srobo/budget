@@ -1,6 +1,6 @@
 summary: Props for the arena
 
-cost: 150 * 2
+cost: 0
 
 description: >-
   The game will almost certainly involve some kind of props.
@@ -10,3 +10,5 @@ description: >-
   reasonable amount per arena, so that's what this spend is based on.
 
 consumable: true
+
+closed: true

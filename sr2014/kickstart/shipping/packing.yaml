@@ -1,6 +1,6 @@
 summary: Packing material for shipping to kickstarts
 
-cost: 6.74 * 3 * 2 + 4.89
+cost: 45.33
 
 description: >-
   Ratchet straps and stretch wrap for attaching kits to pallets.
@@ -13,3 +13,5 @@ description: >-
 
 # The majority of this item (the ratchet straps) are reusable
 consumable: false
+
+closed: true

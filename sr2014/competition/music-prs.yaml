@@ -1,9 +1,11 @@
 summary: A PRS license for the competition
 
-cost: (2 * 57.41) * 1.2
+cost: 32.50
 
 description: >-
   Cost of a PRS license for the 2014 competition at £57.41 + VAT per day.
 
 # Whether the item/service can only be used once
 consumable: true
+
+closed: true
