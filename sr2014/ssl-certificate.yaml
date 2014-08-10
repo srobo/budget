@@ -1,10 +1,12 @@
-summary: SSL certificate for https://studentrobotics.org
+summary: SSL certificate for https://*.studentrobotics.org
 
-cost: 30
+cost: 180
 
 description: >-
-    A COMODO 5 year SSL certificate for the website base domain, to be bought
-    from namecheap.
+    A COMODO 5 year wildcard SSL certificate.
+
+    Bought from here:
+    https://cheapsslsecurity.com/comodo/positivessl-wildcard.html
 
 # Whether the item/service can only be used once
 consumable: true
