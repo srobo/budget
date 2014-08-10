@@ -1,0 +1,17 @@
+summary: Money for unexpected shipping
+
+# Cost of the item
+cost: 100.00
+
+# Long description
+description: >-
+  We occasionally have to ship things back and forth between teams
+  when stuff breaks etc.
+
+  This is currently £82.51 enqueued for this line in #2294.
+
+  This fund is for the emergency shipping of things to and from teams,
+  not for shipping kit to them.
+
+# Whether the item/service can only be used once
+consumable: true
