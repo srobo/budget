@@ -1,0 +1,38 @@
+summary: Wire for the SR2015 kits
+
+cost: >-
+  ( ceiling(sr2015_teams/16.0) * 3 * 12.65 * 1.2 )
+  +
+  ( ceiling(sr2015_teams/33.0) * 4 * 23.31 * 1.2 )
+
+description: >-
+  Wire for the kits.  Only enough for the kits that we're actually
+  shipping (i.e. not including spare or dev kits).
+
+  - 0.75mm^2 wire:
+      1.5m of each of the following per kit:
+
+      All 25m reels:
+      - Blue Farnell 1465870
+      - Red Farnell 1465872
+      - Black Farnell 1465869
+
+      Each of the above reels is £12.65 + VAT
+
+      So that's 16 kits per reel.
+
+  - 0.5mm^2 wire:
+      3m of each of the following per kit:
+
+      All 100m reels:
+      - Red Farnell 1285930
+      - Black Farnell 1285922
+      - Blue Farnell 1285923
+      - Green Farnell 1285926
+
+      Each of the above reels is £23.31 + VAT
+
+      So that's 33 kits per reel.
+
+# Whether the item/service can only be used once
+consumable: true

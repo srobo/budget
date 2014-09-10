@@ -1,6 +1,6 @@
 summary: Parts for battery profiling
 
-cost: 200
+cost: 201.47
 
 description: >-
   Funds for the develop
@@ -14,3 +14,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: true
+
+closed: true

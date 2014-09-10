@@ -1,0 +1,21 @@
+summary: ODROID-U3s for SR2015 kit
+
+cost: ((65 + 4 + 1.25 + 4.25) * sr2015_total_kits) * 1.2 * 1.05 / 1.6
+
+description: >-
+  ODROID-U3s for the SR2015 kit, along with case and power leads.
+
+  Hardkernel charges the following:
+   - $65 for the ODROID-U3
+   - $4 for its case
+   - $1.25 for a power cable that's compatible with it.
+
+  Shipping appears to be approximately $4.25 per set of the above
+  (presumably this doesn't scale down to small numbers...)
+
+  Price assumes:
+   - 20% VAT
+   - 5% import fees/tax
+   - 1.6 USD to the GBP
+
+consumable: false

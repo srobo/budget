@@ -1,0 +1,34 @@
+summary: Battery cables for SR2015
+
+cost: >-
+  ceiling((sr2015_total_kits * 2)/100) * 6.70 * 1.2
+  + ceiling( (sr2015_total_kits - 72) * 2 / 10 ) * 11.46 * 1.2
+  + ceiling( (sr2015_total_kits - 72)/ 5 ) * 1.17 * 1.2
+  + ceiling( (sr2015_total_kits - 72)/ 120 ) * 1.87 * 1.2
+
+description: >-
+  Components for new battery cable assemblies and upgrade of existing
+  battery cables to the new power board.
+
+  There are currently 88 battery power cables in the inventory, but
+  assuming that we have lost 20% of them, this leaves 72 existing.
+
+  All cables require:
+    - Crimp connectors
+      Farnell 4343967 = £6.70 for pack of 100. (+VAT)
+
+  In addition, new cables require:
+    - Wire
+      0.5m of red and black (Farnell 3653006 and 3653018)
+      5m reels: £11.46 + VAT each
+
+    - Male XT60 connector
+      http://www.hobbyking.com/hobbyking/store/__10414__Male_XT60_connectors_5pcs_bag_GENUINE.html
+      Pack of 5 is £1.17
+
+   - heat shrink
+       10mm per wire per assembly
+       Farnell 1191006: 1.2m heatshrink = £1.87 + VAT
+
+
+consumable: false

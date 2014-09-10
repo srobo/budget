@@ -1,0 +1,11 @@
+summary: Cases for SR2015 servo boards
+
+cost: 4 * sr2015_total_kits
+
+description: >-
+  Cases for the SR2015 servo boards.
+
+  Based on costs of the MCv4 case costs.
+
+# Whether the item/service can only be used once
+consumable: false

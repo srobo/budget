@@ -17,3 +17,8 @@ incoming:
     # in April 2014.  This divided by 1.1 is £26848.01
   - desc: Motorola Solutions Foundation in April 2014.
     amount: 26848.01
+
+    # We received £16850 from ECS in August 2014
+    # This divided by 1.1 is 15318.18
+  - desc: ECS
+    amount: 15318.18

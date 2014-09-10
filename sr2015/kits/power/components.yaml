@@ -1,0 +1,12 @@
+summary: Power board components
+
+cost: 42.50 * sr2015_total_kits
+uncertainty: 0.02
+
+description: >-
+  Components for the new "v4" SR2015 power boards.
+
+  This is based on a quote from Farnell, and prices from Mouser.
+
+# Whether the item/service can only be used once
+consumable: false

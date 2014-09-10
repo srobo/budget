@@ -1,0 +1,13 @@
+summary: 2m 3/4in 1.6mm aluminium angle, 4 per kit
+
+# Cost of the item
+cost: (325.0/sr2014_teams) * sr2015_teams
+
+# Long description
+description: >-
+  Aluminium angle for kits.
+
+  We spent £325 in SR2014, so this should just scale up for SR2015.
+
+# Whether the item/service can only be used once
+consumable: true

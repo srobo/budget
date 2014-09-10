@@ -1,0 +1,9 @@
+summary: USB wifi dongles for the kits
+
+cost: 8.00 * 2 * sr2015_total_kits
+
+description: >-
+  USB wifi dongles for every kit.
+
+# Whether the item/service can only be used once
+consumable: false

@@ -1,0 +1,15 @@
+summary: Bits of mech kit
+
+# Cost of the item
+cost: 900.16
+uncertainty: 0.02
+
+# Long description
+description: >-
+  For the various bits and pieces that will form the mech kit.
+
+  This is for the same order as in SR2014 -- parts all listed in
+  trac #1985.
+
+# Whether the item/service can only be used once
+consumable: true

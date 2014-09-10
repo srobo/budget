@@ -1,6 +1,6 @@
 summary: Electronics prototyping
 
-cost: 800
+cost: 356.01
 
 description: >-
   Funds for prototyping kit modifications.
@@ -10,3 +10,5 @@ TODO: >-
 
 # Whether the item/service can only be used once
 consumable: true
+
+closed: true

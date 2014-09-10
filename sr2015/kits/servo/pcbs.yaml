@@ -1,0 +1,12 @@
+summary: SR2015 Servo board PCBs and assembly
+
+cost: 35.77 * sr2015_total_kits
+uncertainty: 0.02
+
+description: >-
+  Assembly of USB servo boards for all teams.
+
+  This is based on a quote from Garner Osborne.
+
+# Whether the item/service can only be used once
+consumable: false

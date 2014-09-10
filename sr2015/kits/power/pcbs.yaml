@@ -1,0 +1,12 @@
+summary: Power board PCBs and assembly
+
+cost: 44.56 * sr2015_total_kits
+uncertainty: 0.02
+
+description: >-
+  Assembly of the new "v4" power boards.
+
+  This is based on a quote from Garner Osborne.
+
+# Whether the item/service can only be used once
+consumable: false

@@ -1,0 +1,12 @@
+summary: Bits and pieces for kickstart 2014
+
+cost: 100
+
+description: >-
+    Bits and pieces for kickstart -- e.g. card, servos, leds, etc.
+
+    Last year we spent £75.
+
+# Whether the item/service can only be used once
+consumable: true
+

@@ -1,0 +1,11 @@
+summary: Cases for SR2015 power boards
+
+cost: 4.50 * sr2015_total_kits
+
+description: >-
+  Cases for the new power board.
+
+  Based on prices of previous, similarly sized cases.
+
+# Whether the item/service can only be used once
+consumable: false
