@@ -1,9 +1,12 @@
 summary: USB wifi dongles for the kits
 
-cost: 8.00 * 2 * sr2015_total_kits
+cost: 8.7 * 1.2 * 2 * sr2015_total_kits + 6
+uncertainty: 0.02
 
 description: >-
   USB wifi dongles for every kit.
+
+  £8.70 each plus VAT from Entatech, and £6 shipping.
 
 # Whether the item/service can only be used once
 consumable: false

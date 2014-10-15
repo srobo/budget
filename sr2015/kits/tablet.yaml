@@ -1,6 +1,6 @@
 summary: Android tablets for SR2015 kits
 
-cost: 31.70 * 1.2 * sr2015_total_kits
+cost: 3056.40
 
 description: >-
   Android tablets for all SR kits.
@@ -9,3 +9,5 @@ description: >-
     http://www.entaonline.com/product/3Q-RC0719H-70-inch-Tablet-Dual-Core-10GHz_3Q-RC0719H.htm
 
 consumable: false
+
+closed: true
