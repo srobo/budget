@@ -1,6 +1,6 @@
 summary: Bubble wrap for kit shipping
 
-cost: 81.70
+cost: 34.17
 
 description: >-
     Bubble wrap for packaging the kit when it ships.
@@ -9,3 +9,5 @@ description: >-
     anywhere near all of it, so spend the same again.
 
 consumable: true
+
+closed: true
