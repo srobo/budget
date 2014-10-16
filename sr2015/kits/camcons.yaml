@@ -1,0 +1,13 @@
+summary: Camcons for the SR2015 kits
+
+cost: ( ( 0.50 * 100 ) + ( 0.45 * 200 ) + ( 0.51 * 120 ) ) * 1.2
+uncertainty: 0.002
+
+description: >-
+    New and replacement camcons for kits, all 2-way:
+        * 100 off 3882275 (7.5mm, replacment)
+        * 200 off 3881854 (5mm, replacement and 2 more per kit)
+        * 120 off 1717047 (3.81mm, new)
+
+# Whether the item/service can only be used once
+consumable: false
