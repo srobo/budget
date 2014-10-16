@@ -1,7 +1,7 @@
 summary: Bits of mech kit
 
 # Cost of the item
-cost: 900.16
+cost: 731.20
 uncertainty: 0.02
 
 # Long description
@@ -13,3 +13,5 @@ description: >-
 
 # Whether the item/service can only be used once
 consumable: true
+
+closed: true
