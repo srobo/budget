@@ -1,6 +1,6 @@
 summary: ODROID-U3s for SR2015 kit
 
-cost: ((65 + 4 + 1.25 + 4.25) * sr2015_total_kits) * 1.2 * 1.05 / 1.6
+cost: 4736.48
 
 description: >-
   ODROID-U3s for the SR2015 kit, along with case and power leads.
@@ -19,3 +19,5 @@ description: >-
    - 1.6 USD to the GBP
 
 consumable: false
+
+closed: true
