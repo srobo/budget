@@ -1,0 +1,10 @@
+summary: Materials for 3 flags, for prototyping at Tech Days
+
+cost: (30.36 + 11.65)*1.2 + (5.71 + 2)*1.2
+
+description: >
+    £30.36 for 12 LD16 casters plus £11.65 shipping ex. VAT as described
+    in #2868, and £5.71 for MDF plus £2 for the laser cutting ex. VAT as
+    described in #2870.
+
+consumable: false
