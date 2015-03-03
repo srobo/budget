@@ -22,3 +22,8 @@ incoming:
     # This divided by 1.1 is 15318.18
   - desc: ECS
     amount: 15318.18
+
+    # A loan from jmorse of £3900 for paying the Newbury Deposit (2015).
+    # Divided by 1.1, this is 3545
+  - desc: jmorse loan
+    amount: 3545
