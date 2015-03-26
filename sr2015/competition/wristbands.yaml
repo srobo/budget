@@ -1,0 +1,11 @@
+summary: Wristbands for entry to the competition
+
+cost: 346
+
+description: >-
+  Cost of 800 fabric wrist-bands for the SR2015 competition.
+  We have a quote for this.
+
+# Whether the item/service can only be used once
+consumable: true
+uncertainty: 0

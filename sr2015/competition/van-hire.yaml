@@ -1,0 +1,11 @@
+summary: Van hire
+
+cost: 306
+
+description: >-
+  Van hire for moving things around.
+  Based on a quote we have for a van.
+
+# Whether the item/service can only be used once
+consumable: true
+uncertainty: 0

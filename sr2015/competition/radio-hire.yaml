@@ -1,0 +1,12 @@
+summary: Two-way radio hire for the competition
+
+cost: 261.00
+
+description: >-
+  Radios for the team shepherds, and other miscellaneous
+  communications needed at the competition.
+
+  This is what we spent in SR2014.
+
+# Whether the item/service can only be used once
+consumable: true

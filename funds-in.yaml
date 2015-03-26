@@ -27,3 +27,8 @@ incoming:
     # Divided by 1.1, this is 3545
   - desc: jmorse loan
     amount: 3545
+
+    # A second loan from jmorse of £17748.21
+    # Divided by 1.1, this is £16134.73
+  - desc: jmorse loan 2
+    amount: 16134.73

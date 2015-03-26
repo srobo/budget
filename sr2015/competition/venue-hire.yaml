@@ -1,10 +1,14 @@
-summary: Deposit payment for Newbury Racecourse
+summary: Venue hire for the competition
 
-cost: 3969
+cost: 13230 * 1.2
 
 description: >-
-    Deposit (inc VAT) to be paid to Newbury for booking the 2015 competition
+  Venue hire cost for SR2015.
 
-consumable: true
+  Based on the agreement that we have entered into with Newbury
+  Racecourse.
 
 uncertainty: 0
+
+# Whether the item/service can only be used once
+consumable: true

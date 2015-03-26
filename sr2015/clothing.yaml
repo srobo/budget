@@ -1,0 +1,11 @@
+summary: T-shirts
+
+# Cost of the item
+cost: 100
+
+# Long description
+description: >-
+  Based on SR2014's clothing expense.
+
+# Whether the item/service can only be used once
+consumable: false

@@ -1,0 +1,11 @@
+summary: Parts for SR2014 game tokens
+
+cost: 75
+
+description: >-
+  SR2015's game will involve some tokens.
+
+  This number is last year's token cost (~£47) plus some extra fudge.
+
+# Whether the item/service can only be used once
+consumable: true

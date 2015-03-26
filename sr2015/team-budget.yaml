@@ -1,0 +1,13 @@
+summary: Money we give to teams if they claim it
+
+# Cost of the item
+cost: 1070
+
+# Long description
+description: >-
+  We give each team a budget of £75 which they can claim back at the end
+  of the year.  Last year, teams claimed £1069.69 and we're basically
+  the same size this year.
+
+# Whether the item/service can only be used once
+consumable: true
