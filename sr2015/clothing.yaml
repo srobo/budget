@@ -1,7 +1,8 @@
 summary: T-shirts
 
 # Cost of the item
-cost: 100
+cost: 111.40
+uncertainty: 0
 
 # Long description
 description: >-
