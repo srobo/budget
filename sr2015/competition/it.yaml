@@ -1,0 +1,13 @@
+summary: IT Equipment for the SR2015 Competition
+
+cost: 2311.50
+uncertainty: 0
+
+description: >-
+  Hire of displays, networking equipment and cabling, radios, and
+  cable protection from ITR for the SR2015 competition.
+
+  Uncertainty of 0 because I have an orderable quote infront of my face.
+
+# Whether the item/service can only be used once
+consumable: true
