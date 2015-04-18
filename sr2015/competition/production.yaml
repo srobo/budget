@@ -1,0 +1,13 @@
+summary: Sound, lighting and power for SR2015 competition
+
+cost: 8100
+uncertainty: 0
+
+description: >-
+  Sound, lighting and power for the SR2015 competition.
+
+  From Bennellick Engineering Ltd.  Received a quote for this amount,
+  hence the lack of uncertainty.
+
+# Whether the item/service can only be used once
+consumable: true

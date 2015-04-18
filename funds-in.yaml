@@ -36,3 +36,8 @@ incoming:
     # A loan from rspanton of £1812.32
   - desc: rspanton loan
     amount: 1647.56
+
+    # A third loan from jmorse of £8100
+    # Divided by 1.1, this is £7363.64
+  - desc: jmorse loan
+    amount: 7363.64
