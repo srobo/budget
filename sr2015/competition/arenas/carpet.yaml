@@ -1,6 +1,6 @@
 summary: Carpet for the arenas
 
-cost: 441.40
+cost: 363.94
 
 description: >-
   Carpet for the SR2015 arenas.
@@ -10,3 +10,4 @@ description: >-
   the spend on carpet should be about the same.
 
 consumable: true
+closed: true
