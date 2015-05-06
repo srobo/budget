@@ -41,3 +41,7 @@ incoming:
     # Divided by 1.1, this is £7363.64
   - desc: jmorse loan
     amount: 7363.64
+
+    # A loan from rbarlow of £370.06
+  - desc: rbarlow loan
+    amount: 336.42

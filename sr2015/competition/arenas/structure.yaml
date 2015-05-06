@@ -1,0 +1,17 @@
+summary: SR2015 arena walls
+
+# Cost of the item
+cost: 370.06
+
+uncertainty: 0.0
+
+# Long description
+description: >-
+    MDF walls for two arenas. Price from invoice.
+
+    This gives us 70 off 300mm tall, 1142mm long wall sections.
+
+    It also includes 8 off 400mm wide, 100mm tall, 1500mm long boxes.
+
+# Whether the item/service can only be used once
+consumable: false
